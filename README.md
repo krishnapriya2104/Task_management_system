@@ -43,13 +43,23 @@ Pickle (for model saving)
 5)The best model is saved and used in the Streamlit web app for real-time predictions.
 
 📂 Folder Structure
+
 📦 ai-powered-task-management-system
-├── app.py                     # Streamlit main app
+
+├──app.py                        # Streamlit main app
+
 ├── task_classifier_model.pkl  # Trained ML model
+
 ├── vectorizer.pkl             # TF-IDF vectorizer
+
 ├── le_category.pkl            # Label encoder for category
+
 ├── le_status.pkl              # Label encoder for status
+
 ├── scaler.pkl                 # Scaler for numeric features
+
 ├── synthetic_dataset.csv      # Generated dataset
+
 ├── requirements.txt           # Required libraries
+
 └── README.md                  # Project documentation
