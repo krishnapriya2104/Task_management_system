@@ -1,0 +1,1501 @@
+Task_ID,Task_Description,Deadline,Assigned_To,Estimated_Hours,Category,Status,Priority
+1,Testing task to handle cases and QA.,2025-11-10,Sophia,20,Testing,In Progress,Medium
+2,Documentation task to handle notes and summary.,2025-12-04,Isabella,4,Documentation,In Progress,Low
+3,Testing task to handle QA and error.,2025-11-13,Noah,13,Testing,In Progress,Medium
+4,Deployment task to handle container and deploy.,2025-10-18,Ava,27,Deployment,Pending,High
+5,Documentation task to handle docs and notes.,2025-11-14,James,4,Documentation,Completed,Low
+6,Design task to handle design and banner.,2025-12-04,Noah,5,Design,In Progress,Low
+7,Deployment task to handle environment and server.,2025-11-04,Ava,21,Deployment,In Progress,Medium
+8,Documentation task to handle guide and docs.,2025-11-20,Lucas,9,Documentation,In Progress,Low
+9,Documentation task to handle instructions and summary.,2025-12-09,James,6,Documentation,In Progress,Low
+10,Testing task to handle test and performance.,2025-11-06,Sophia,22,Testing,In Progress,Medium
+11,Development task to handle logic and function.,2025-10-25,Isabella,33,Development,Pending,High
+12,Documentation task to handle docs and guide.,2025-12-03,Isabella,7,Documentation,Completed,Low
+13,Development task to handle feature and module.,2025-11-06,James,17,Development,In Progress,Medium
+14,Testing task to handle cases and QA.,2025-10-28,Liam,12,Testing,In Progress,Medium
+15,Testing task to handle performance and validation.,2025-11-14,James,13,Testing,In Progress,Medium
+16,Deployment task to handle container and CI/CD.,2025-10-29,Liam,24,Deployment,In Progress,Medium
+17,Documentation task to handle instructions and manual.,2025-11-18,Noah,4,Documentation,Completed,Low
+18,Deployment task to handle production and deploy.,2025-10-22,Olivia,27,Deployment,Pending,High
+19,Development task to handle database and feature.,2025-11-08,James,17,Development,In Progress,Medium
+20,Design task to handle mockup and design.,2025-11-24,Noah,8,Design,In Progress,Low
+21,Testing task to handle error and performance.,2025-10-26,Lucas,21,Testing,In Progress,Medium
+22,Deployment task to handle deploy and production.,2025-10-21,Liam,28,Deployment,Pending,High
+23,Design task to handle UX and UI.,2025-12-03,Emma,8,Design,In Progress,Low
+24,Design task to handle color and banner.,2025-11-14,Isabella,5,Design,Completed,Low
+25,Deployment task to handle CI/CD and cloud.,2025-10-28,Sophia,14,Deployment,In Progress,Medium
+26,Documentation task to handle manual and notes.,2025-11-22,Mia,5,Documentation,Completed,Low
+27,Deployment task to handle server and production.,2025-11-01,Ava,14,Deployment,In Progress,Medium
+28,Design task to handle UX and design.,2025-11-02,Liam,11,Design,In Progress,Medium
+29,Development task to handle function and API.,2025-10-29,Sophia,19,Development,In Progress,Medium
+30,Documentation task to handle reference and instructions.,2025-11-28,Sophia,5,Documentation,Completed,Low
+31,Testing task to handle QA and cases.,2025-11-01,Liam,19,Testing,In Progress,Medium
+32,Development task to handle function and API.,2025-10-23,Sophia,32,Development,In Progress,High
+33,Documentation task to handle docs and summary.,2025-12-01,Mia,9,Documentation,In Progress,Low
+34,Testing task to handle test and validation.,2025-10-28,Ava,19,Testing,In Progress,Medium
+35,Design task to handle banner and design.,2025-11-12,Emma,11,Design,In Progress,Medium
+36,Testing task to handle test and performance.,2025-10-30,Isabella,13,Testing,In Progress,Medium
+37,Development task to handle database and module.,2025-10-18,Mia,36,Development,Pending,High
+38,Development task to handle API and function.,2025-10-23,Emma,26,Development,In Progress,High
+39,Development task to handle database and function.,2025-12-12,Noah,10,Development,In Progress,Low
+40,Development task to handle API and logic.,2025-11-05,Liam,16,Development,In Progress,Medium
+41,Testing task to handle validation and test.,2025-11-06,Lucas,16,Testing,In Progress,Medium
+42,Documentation task to handle instructions and summary.,2025-11-15,Sophia,10,Documentation,In Progress,Low
+43,Documentation task to handle summary and reference.,2025-11-14,Noah,2,Documentation,Completed,Low
+44,Design task to handle layout and UX.,2025-11-06,Liam,17,Design,In Progress,Medium
+45,Development task to handle function and backend.,2025-10-20,Ava,27,Development,Pending,High
+46,Documentation task to handle notes and guide.,2025-12-11,Liam,8,Documentation,In Progress,Low
+47,Documentation task to handle summary and reference.,2025-11-17,Liam,9,Documentation,In Progress,Low
+48,Documentation task to handle instructions and docs.,2025-12-04,James,2,Documentation,Completed,Low
+49,Documentation task to handle instructions and manual.,2025-11-20,Mia,5,Documentation,Completed,Low
+50,Documentation task to handle guide and summary.,2025-11-14,Noah,8,Documentation,In Progress,Low
+51,Design task to handle color and mockup.,2025-11-12,James,15,Design,In Progress,Medium
+52,Deployment task to handle production and deploy.,2025-11-14,Ava,18,Deployment,In Progress,Medium
+53,Deployment task to handle container and CI/CD.,2025-12-10,Mia,8,Deployment,In Progress,Low
+54,Development task to handle feature and logic.,2025-11-11,Isabella,19,Development,In Progress,Medium
+55,Deployment task to handle environment and production.,2025-11-05,Liam,21,Deployment,In Progress,Medium
+56,Deployment task to handle container and cloud.,2025-11-13,Noah,11,Deployment,In Progress,Medium
+57,Deployment task to handle server and deploy.,2025-10-27,Noah,21,Deployment,In Progress,Medium
+58,Documentation task to handle docs and notes.,2025-11-14,James,8,Documentation,In Progress,Low
+59,Development task to handle database and API.,2025-11-04,Emma,13,Development,In Progress,Medium
+60,Documentation task to handle notes and instructions.,2025-11-16,Ava,10,Documentation,In Progress,Low
+61,Documentation task to handle guide and notes.,2025-11-28,Lucas,5,Documentation,In Progress,Low
+62,Testing task to handle bug and validation.,2025-11-10,James,17,Testing,In Progress,Medium
+63,Development task to handle function and database.,2025-10-20,Olivia,33,Development,In Progress,High
+64,Design task to handle banner and mockup.,2025-11-06,Isabella,11,Design,In Progress,Medium
+65,Design task to handle layout and UX.,2025-11-01,Ava,18,Design,In Progress,Medium
+66,Development task to handle logic and backend.,2025-10-21,Isabella,33,Development,Pending,High
+67,Testing task to handle QA and error.,2025-11-06,Emma,13,Testing,In Progress,Medium
+68,Testing task to handle error and bug.,2025-11-01,Olivia,11,Testing,In Progress,Medium
+69,Development task to handle feature and logic.,2025-11-12,Isabella,21,Development,In Progress,Medium
+70,Testing task to handle QA and validation.,2025-11-09,Sophia,21,Testing,In Progress,Medium
+71,Design task to handle banner and design.,2025-11-02,Olivia,11,Design,In Progress,Medium
+72,Development task to handle module and logic.,2025-11-04,Noah,20,Development,In Progress,Medium
+73,Deployment task to handle CI/CD and cloud.,2025-12-11,Isabella,9,Deployment,In Progress,Low
+74,Deployment task to handle container and environment.,2025-11-06,Liam,17,Deployment,In Progress,Medium
+75,Design task to handle mockup and UI.,2025-11-25,James,6,Design,Completed,Low
+76,Testing task to handle error and performance.,2025-11-05,Mia,22,Testing,In Progress,Medium
+77,Design task to handle mockup and design.,2025-10-31,Sophia,13,Design,In Progress,Medium
+78,Deployment task to handle container and CI/CD.,2025-10-25,Noah,17,Deployment,In Progress,Medium
+79,Documentation task to handle instructions and notes.,2025-12-13,Isabella,3,Documentation,In Progress,Low
+80,Deployment task to handle container and CI/CD.,2025-11-09,Olivia,11,Deployment,In Progress,Medium
+81,Deployment task to handle CI/CD and container.,2025-12-06,James,10,Deployment,In Progress,Low
+82,Documentation task to handle instructions and guide.,2025-11-14,Liam,5,Documentation,In Progress,Low
+83,Deployment task to handle cloud and deploy.,2025-11-03,James,23,Deployment,In Progress,Medium
+84,Design task to handle UI and design.,2025-11-20,Emma,5,Design,In Progress,Low
+85,Testing task to handle cases and test.,2025-10-28,Noah,25,Testing,In Progress,Medium
+86,Design task to handle design and banner.,2025-11-01,Noah,11,Design,In Progress,Medium
+87,Documentation task to handle instructions and summary.,2025-11-26,Sophia,10,Documentation,In Progress,Low
+88,Testing task to handle validation and performance.,2025-11-12,Sophia,24,Testing,In Progress,Medium
+89,Development task to handle module and feature.,2025-11-07,Ava,25,Development,In Progress,Medium
+90,Design task to handle design and UI.,2025-11-10,Isabella,19,Design,In Progress,Medium
+91,Design task to handle color and mockup.,2025-11-08,Emma,15,Design,In Progress,Medium
+92,Development task to handle function and API.,2025-10-24,Olivia,30,Development,Pending,High
+93,Testing task to handle test and cases.,2025-11-05,Ava,20,Testing,In Progress,Medium
+94,Testing task to handle cases and error.,2025-10-30,Olivia,23,Testing,In Progress,Medium
+95,Testing task to handle bug and error.,2025-11-08,Liam,21,Testing,In Progress,Medium
+96,Design task to handle banner and mockup.,2025-11-08,Olivia,19,Design,In Progress,Medium
+97,Development task to handle module and API.,2025-10-23,Sophia,29,Development,In Progress,High
+98,Design task to handle banner and design.,2025-12-02,Emma,7,Design,In Progress,Low
+99,Testing task to handle performance and cases.,2025-10-29,Mia,16,Testing,In Progress,Medium
+100,Documentation task to handle instructions and notes.,2025-12-11,Isabella,6,Documentation,Completed,Low
+101,Testing task to handle cases and performance.,2025-11-01,Mia,20,Testing,In Progress,Medium
+102,Testing task to handle bug and test.,2025-11-03,Isabella,23,Testing,In Progress,Medium
+103,Development task to handle logic and backend.,2025-10-21,Sophia,38,Development,Pending,High
+104,Design task to handle UI and UX.,2025-11-14,Sophia,6,Design,Completed,Low
+105,Testing task to handle validation and QA.,2025-11-02,Sophia,19,Testing,In Progress,Medium
+106,Testing task to handle test and cases.,2025-11-28,Liam,9,Testing,In Progress,Low
+107,Design task to handle mockup and banner.,2025-11-06,James,13,Design,In Progress,Medium
+108,Design task to handle mockup and UX.,2025-12-02,Liam,8,Design,In Progress,Low
+109,Testing task to handle test and bug.,2025-11-09,James,20,Testing,In Progress,Medium
+110,Development task to handle logic and feature.,2025-11-10,Emma,23,Development,In Progress,Medium
+111,Development task to handle feature and database.,2025-10-29,Lucas,17,Development,In Progress,Medium
+112,Deployment task to handle server and container.,2025-11-12,Mia,13,Deployment,In Progress,Medium
+113,Design task to handle UX and UI.,2025-11-20,Ava,9,Design,In Progress,Low
+114,Testing task to handle bug and QA.,2025-11-10,Isabella,23,Testing,In Progress,Medium
+115,Testing task to handle cases and validation.,2025-10-30,Liam,13,Testing,In Progress,Medium
+116,Design task to handle banner and UX.,2025-10-30,Noah,13,Design,In Progress,Medium
+117,Development task to handle feature and function.,2025-10-25,Noah,39,Development,Pending,High
+118,Testing task to handle error and performance.,2025-10-25,Mia,25,Testing,In Progress,Medium
+119,Documentation task to handle notes and guide.,2025-12-07,Isabella,3,Documentation,Completed,Low
+120,Testing task to handle validation and performance.,2025-10-28,Lucas,24,Testing,In Progress,Medium
+121,Documentation task to handle instructions and summary.,2025-11-19,Mia,2,Documentation,In Progress,Low
+122,Deployment task to handle CI/CD and environment.,2025-12-08,Isabella,10,Deployment,In Progress,Low
+123,Design task to handle UX and banner.,2025-11-14,Sophia,11,Design,In Progress,Medium
+124,Deployment task to handle container and CI/CD.,2025-10-30,Sophia,15,Deployment,In Progress,Medium
+125,Testing task to handle validation and test.,2025-11-07,Emma,14,Testing,In Progress,Medium
+126,Design task to handle layout and UX.,2025-11-16,Ava,5,Design,In Progress,Low
+127,Testing task to handle validation and QA.,2025-11-08,Ava,20,Testing,In Progress,Medium
+128,Design task to handle banner and design.,2025-11-14,Mia,16,Design,In Progress,Medium
+129,Development task to handle backend and feature.,2025-11-01,Ava,18,Development,In Progress,Medium
+130,Documentation task to handle guide and docs.,2025-11-22,James,8,Documentation,In Progress,Low
+131,Documentation task to handle reference and guide.,2025-12-10,Olivia,6,Documentation,In Progress,Low
+132,Deployment task to handle container and deploy.,2025-10-25,James,28,Deployment,In Progress,High
+133,Design task to handle color and UX.,2025-10-28,Olivia,19,Design,In Progress,Medium
+134,Design task to handle design and color.,2025-10-31,Liam,11,Design,In Progress,Medium
+135,Design task to handle UX and UI.,2025-12-03,James,5,Design,In Progress,Low
+136,Testing task to handle performance and cases.,2025-11-03,Liam,15,Testing,In Progress,Medium
+137,Design task to handle UX and color.,2025-12-08,Ava,5,Design,Completed,Low
+138,Development task to handle function and module.,2025-10-31,Noah,21,Development,In Progress,Medium
+139,Deployment task to handle server and CI/CD.,2025-10-21,Noah,29,Deployment,In Progress,High
+140,Development task to handle module and logic.,2025-10-25,Olivia,21,Development,In Progress,Medium
+141,Development task to handle function and feature.,2025-11-12,Sophia,20,Development,In Progress,Medium
+142,Documentation task to handle summary and manual.,2025-12-07,Ava,8,Documentation,In Progress,Low
+143,Deployment task to handle server and CI/CD.,2025-11-04,Ava,11,Deployment,In Progress,Medium
+144,Documentation task to handle manual and notes.,2025-12-06,Emma,7,Documentation,Completed,Low
+145,Design task to handle design and UX.,2025-12-05,Olivia,9,Design,In Progress,Low
+146,Testing task to handle validation and error.,2025-12-01,James,10,Testing,In Progress,Low
+147,Deployment task to handle environment and production.,2025-11-05,James,18,Deployment,In Progress,Medium
+148,Testing task to handle bug and error.,2025-11-08,Sophia,16,Testing,In Progress,Medium
+149,Design task to handle UX and mockup.,2025-10-31,Ava,18,Design,In Progress,Medium
+150,Testing task to handle error and performance.,2025-10-26,Sophia,20,Testing,In Progress,Medium
+151,Testing task to handle test and QA.,2025-12-02,Ava,9,Testing,In Progress,Low
+152,Deployment task to handle environment and server.,2025-11-12,Isabella,25,Deployment,In Progress,Medium
+153,Testing task to handle bug and performance.,2025-11-18,Liam,9,Testing,In Progress,Low
+154,Deployment task to handle deploy and environment.,2025-11-03,Sophia,25,Deployment,In Progress,Medium
+155,Development task to handle backend and function.,2025-10-22,Mia,39,Development,In Progress,High
+156,Development task to handle module and logic.,2025-10-19,Noah,28,Development,In Progress,High
+157,Design task to handle mockup and UX.,2025-12-09,Lucas,8,Design,In Progress,Low
+158,Testing task to handle performance and validation.,2025-11-09,Lucas,25,Testing,In Progress,Medium
+159,Design task to handle layout and mockup.,2025-11-07,Mia,20,Design,In Progress,Medium
+160,Documentation task to handle summary and instructions.,2025-12-09,Mia,4,Documentation,In Progress,Low
+161,Testing task to handle bug and performance.,2025-11-12,Ava,13,Testing,In Progress,Medium
+162,Documentation task to handle guide and reference.,2025-11-28,Mia,7,Documentation,Completed,Low
+163,Design task to handle UX and color.,2025-11-14,Liam,16,Design,In Progress,Medium
+164,Design task to handle layout and mockup.,2025-10-27,Liam,13,Design,In Progress,Medium
+165,Development task to handle API and feature.,2025-10-30,Ava,11,Development,In Progress,Medium
+166,Development task to handle database and function.,2025-10-31,Noah,13,Development,In Progress,Medium
+167,Development task to handle module and backend.,2025-11-13,Noah,21,Development,In Progress,Medium
+168,Development task to handle function and module.,2025-11-10,Mia,16,Development,In Progress,Medium
+169,Development task to handle API and logic.,2025-10-20,James,35,Development,Pending,High
+170,Documentation task to handle reference and docs.,2025-11-18,Sophia,3,Documentation,Completed,Low
+171,Design task to handle UX and color.,2025-11-03,Ava,14,Design,In Progress,Medium
+172,Documentation task to handle docs and manual.,2025-11-25,Sophia,7,Documentation,Completed,Low
+173,Development task to handle backend and function.,2025-10-20,Emma,34,Development,In Progress,High
+174,Documentation task to handle docs and reference.,2025-11-29,Olivia,5,Documentation,In Progress,Low
+175,Testing task to handle cases and test.,2025-11-14,Isabella,18,Testing,In Progress,Medium
+176,Documentation task to handle notes and guide.,2025-11-19,Liam,8,Documentation,In Progress,Low
+177,Development task to handle function and feature.,2025-10-19,Isabella,38,Development,In Progress,High
+178,Development task to handle function and backend.,2025-10-30,Emma,15,Development,In Progress,Medium
+179,Documentation task to handle reference and summary.,2025-12-12,James,6,Documentation,Completed,Low
+180,Development task to handle logic and function.,2025-10-24,Ava,36,Development,Pending,High
+181,Development task to handle logic and database.,2025-11-02,Sophia,23,Development,In Progress,Medium
+182,Development task to handle logic and API.,2025-11-06,Olivia,24,Development,In Progress,Medium
+183,Development task to handle backend and module.,2025-10-25,Ava,20,Development,In Progress,Medium
+184,Development task to handle function and logic.,2025-10-25,Liam,13,Development,In Progress,Medium
+185,Documentation task to handle manual and instructions.,2025-12-13,Liam,3,Documentation,Completed,Low
+186,Development task to handle module and API.,2025-11-13,Sophia,16,Development,In Progress,Medium
+187,Documentation task to handle guide and notes.,2025-12-02,Noah,3,Documentation,Completed,Low
+188,Deployment task to handle environment and server.,2025-11-29,Sophia,10,Deployment,In Progress,Low
+189,Deployment task to handle CI/CD and environment.,2025-10-18,Noah,29,Deployment,In Progress,High
+190,Design task to handle design and layout.,2025-11-12,Olivia,16,Design,In Progress,Medium
+191,Development task to handle database and feature.,2025-10-25,Isabella,30,Development,In Progress,High
+192,Design task to handle banner and UI.,2025-12-13,Mia,7,Design,In Progress,Low
+193,Deployment task to handle environment and deploy.,2025-11-08,Sophia,16,Deployment,In Progress,Medium
+194,Development task to handle module and function.,2025-11-11,Lucas,17,Development,In Progress,Medium
+195,Deployment task to handle CI/CD and environment.,2025-11-04,Olivia,17,Deployment,In Progress,Medium
+196,Design task to handle layout and UX.,2025-11-25,Olivia,5,Design,In Progress,Low
+197,Development task to handle database and logic.,2025-10-23,Ava,40,Development,In Progress,High
+198,Documentation task to handle instructions and reference.,2025-11-21,Liam,10,Documentation,In Progress,Low
+199,Testing task to handle test and performance.,2025-11-12,Mia,19,Testing,In Progress,Medium
+200,Deployment task to handle container and deploy.,2025-10-18,James,30,Deployment,In Progress,High
+201,Documentation task to handle guide and instructions.,2025-11-20,Lucas,9,Documentation,In Progress,Low
+202,Deployment task to handle deploy and cloud.,2025-11-01,Sophia,23,Deployment,In Progress,Medium
+203,Development task to handle database and API.,2025-11-02,James,14,Development,In Progress,Medium
+204,Documentation task to handle guide and instructions.,2025-12-10,Isabella,2,Documentation,Completed,Low
+205,Development task to handle module and backend.,2025-10-22,Mia,26,Development,In Progress,High
+206,Testing task to handle validation and cases.,2025-11-21,Olivia,8,Testing,In Progress,Low
+207,Development task to handle database and module.,2025-10-25,Noah,21,Development,In Progress,Medium
+208,Testing task to handle performance and cases.,2025-11-06,Liam,23,Testing,In Progress,Medium
+209,Testing task to handle validation and bug.,2025-11-14,Liam,23,Testing,In Progress,Medium
+210,Testing task to handle cases and test.,2025-11-12,Ava,13,Testing,In Progress,Medium
+211,Development task to handle logic and database.,2025-10-22,James,26,Development,Pending,High
+212,Documentation task to handle manual and instructions.,2025-12-12,Olivia,7,Documentation,In Progress,Low
+213,Development task to handle backend and function.,2025-10-18,Liam,30,Development,In Progress,High
+214,Deployment task to handle environment and container.,2025-10-27,Olivia,21,Deployment,In Progress,Medium
+215,Documentation task to handle manual and docs.,2025-12-10,Noah,5,Documentation,Completed,Low
+216,Testing task to handle QA and performance.,2025-11-08,Ava,20,Testing,In Progress,Medium
+217,Testing task to handle bug and cases.,2025-11-06,Emma,14,Testing,In Progress,Medium
+218,Deployment task to handle cloud and server.,2025-10-25,Liam,22,Deployment,In Progress,Medium
+219,Deployment task to handle deploy and server.,2025-10-31,Ava,24,Deployment,In Progress,Medium
+220,Documentation task to handle reference and manual.,2025-11-15,Mia,10,Documentation,In Progress,Low
+221,Development task to handle API and backend.,2025-10-21,Ava,39,Development,Pending,High
+222,Deployment task to handle CI/CD and environment.,2025-11-13,Noah,22,Deployment,In Progress,Medium
+223,Documentation task to handle summary and instructions.,2025-12-07,James,8,Documentation,In Progress,Low
+224,Documentation task to handle summary and docs.,2025-11-20,Lucas,2,Documentation,In Progress,Low
+225,Development task to handle function and backend.,2025-10-22,Lucas,32,Development,In Progress,High
+226,Development task to handle module and database.,2025-10-22,Mia,27,Development,Pending,High
+227,Development task to handle API and database.,2025-10-25,Isabella,38,Development,Pending,High
+228,Development task to handle API and database.,2025-11-01,Isabella,18,Development,In Progress,Medium
+229,Deployment task to handle environment and production.,2025-10-19,Sophia,26,Deployment,Pending,High
+230,Testing task to handle QA and validation.,2025-11-10,Emma,16,Testing,In Progress,Medium
+231,Design task to handle mockup and design.,2025-10-27,Sophia,18,Design,In Progress,Medium
+232,Documentation task to handle notes and docs.,2025-12-10,Ava,4,Documentation,In Progress,Low
+233,Documentation task to handle instructions and summary.,2025-12-06,Olivia,2,Documentation,In Progress,Low
+234,Development task to handle function and module.,2025-10-22,James,37,Development,Pending,High
+235,Documentation task to handle manual and docs.,2025-12-13,James,10,Documentation,In Progress,Low
+236,Documentation task to handle guide and notes.,2025-12-10,Liam,9,Documentation,In Progress,Low
+237,Design task to handle design and UI.,2025-11-24,Olivia,9,Design,In Progress,Low
+238,Design task to handle UI and color.,2025-12-06,Olivia,9,Design,In Progress,Low
+239,Deployment task to handle cloud and production.,2025-10-30,Lucas,16,Deployment,In Progress,Medium
+240,Development task to handle database and backend.,2025-10-27,Emma,22,Development,In Progress,Medium
+241,Testing task to handle performance and test.,2025-11-02,Sophia,15,Testing,In Progress,Medium
+242,Testing task to handle test and error.,2025-11-01,Noah,13,Testing,In Progress,Medium
+243,Testing task to handle cases and test.,2025-11-27,Ava,9,Testing,In Progress,Low
+244,Deployment task to handle cloud and deploy.,2025-10-29,Mia,24,Deployment,In Progress,Medium
+245,Deployment task to handle deploy and environment.,2025-10-29,Emma,22,Deployment,In Progress,Medium
+246,Deployment task to handle container and production.,2025-10-26,Emma,22,Deployment,In Progress,Medium
+247,Design task to handle UI and color.,2025-11-06,Lucas,15,Design,In Progress,Medium
+248,Development task to handle function and database.,2025-10-24,Liam,32,Development,Pending,High
+249,Testing task to handle cases and bug.,2025-11-02,Olivia,20,Testing,In Progress,Medium
+250,Development task to handle feature and database.,2025-11-04,Liam,17,Development,In Progress,Medium
+251,Development task to handle API and backend.,2025-11-06,Isabella,22,Development,In Progress,Medium
+252,Design task to handle UI and color.,2025-11-12,Mia,18,Design,In Progress,Medium
+253,Development task to handle logic and function.,2025-10-20,Mia,38,Development,In Progress,High
+254,Deployment task to handle deploy and container.,2025-10-20,Sophia,28,Deployment,Pending,High
+255,Development task to handle feature and backend.,2025-11-10,Isabella,24,Development,In Progress,Medium
+256,Testing task to handle bug and cases.,2025-10-29,Mia,19,Testing,In Progress,Medium
+257,Design task to handle banner and layout.,2025-12-10,Emma,6,Design,In Progress,Low
+258,Development task to handle module and logic.,2025-10-18,James,29,Development,Pending,High
+259,Testing task to handle error and QA.,2025-11-05,Ava,20,Testing,In Progress,Medium
+260,Development task to handle feature and database.,2025-10-25,Isabella,35,Development,Pending,High
+261,Development task to handle feature and API.,2025-11-03,Sophia,12,Development,In Progress,Medium
+262,Testing task to handle bug and QA.,2025-11-09,Ava,19,Testing,In Progress,Medium
+263,Design task to handle layout and UX.,2025-11-15,Mia,10,Design,In Progress,Low
+264,Development task to handle module and API.,2025-10-25,Mia,37,Development,In Progress,High
+265,Design task to handle UI and mockup.,2025-11-11,Noah,18,Design,In Progress,Medium
+266,Documentation task to handle notes and docs.,2025-11-15,Emma,3,Documentation,Completed,Low
+267,Testing task to handle QA and validation.,2025-11-11,Noah,22,Testing,In Progress,Medium
+268,Documentation task to handle notes and guide.,2025-12-02,Isabella,4,Documentation,In Progress,Low
+269,Testing task to handle QA and error.,2025-11-15,Olivia,9,Testing,In Progress,Low
+270,Testing task to handle error and bug.,2025-11-07,Lucas,11,Testing,In Progress,Medium
+271,Development task to handle function and module.,2025-10-18,Isabella,40,Development,Pending,High
+272,Testing task to handle validation and cases.,2025-11-11,Mia,21,Testing,In Progress,Medium
+273,Documentation task to handle notes and docs.,2025-12-08,Liam,2,Documentation,Completed,Low
+274,Development task to handle backend and function.,2025-10-23,Emma,30,Development,In Progress,High
+275,Documentation task to handle docs and guide.,2025-12-07,Sophia,4,Documentation,In Progress,Low
+276,Design task to handle design and mockup.,2025-11-14,James,7,Design,In Progress,Low
+277,Deployment task to handle environment and CI/CD.,2025-10-28,Noah,25,Deployment,In Progress,Medium
+278,Deployment task to handle CI/CD and deploy.,2025-10-30,Isabella,11,Deployment,In Progress,Medium
+279,Deployment task to handle environment and cloud.,2025-10-19,James,28,Deployment,Pending,High
+280,Deployment task to handle environment and CI/CD.,2025-11-08,Isabella,20,Deployment,In Progress,Medium
+281,Documentation task to handle instructions and reference.,2025-11-22,Sophia,5,Documentation,In Progress,Low
+282,Testing task to handle cases and validation.,2025-10-26,Isabella,13,Testing,In Progress,Medium
+283,Development task to handle backend and function.,2025-10-20,Lucas,34,Development,In Progress,High
+284,Design task to handle UI and design.,2025-10-25,Mia,15,Design,In Progress,Medium
+285,Testing task to handle performance and test.,2025-11-13,Olivia,12,Testing,In Progress,Medium
+286,Design task to handle color and UI.,2025-11-07,Ava,14,Design,In Progress,Medium
+287,Development task to handle API and feature.,2025-10-26,James,16,Development,In Progress,Medium
+288,Design task to handle design and layout.,2025-10-25,Mia,15,Design,In Progress,Medium
+289,Design task to handle design and UX.,2025-11-30,Ava,7,Design,Completed,Low
+290,Deployment task to handle server and cloud.,2025-10-22,Mia,26,Deployment,Pending,High
+291,Deployment task to handle environment and production.,2025-11-09,Liam,20,Deployment,In Progress,Medium
+292,Deployment task to handle cloud and deploy.,2025-11-05,James,22,Deployment,In Progress,Medium
+293,Deployment task to handle deploy and CI/CD.,2025-10-31,Sophia,13,Deployment,In Progress,Medium
+294,Design task to handle UX and banner.,2025-11-22,James,5,Design,In Progress,Low
+295,Testing task to handle error and cases.,2025-11-05,Olivia,14,Testing,In Progress,Medium
+296,Design task to handle UX and UI.,2025-12-08,Liam,6,Design,Completed,Low
+297,Design task to handle mockup and design.,2025-11-17,Noah,6,Design,Completed,Low
+298,Deployment task to handle server and deploy.,2025-11-07,James,22,Deployment,In Progress,Medium
+299,Design task to handle UI and banner.,2025-11-06,Emma,13,Design,In Progress,Medium
+300,Testing task to handle bug and error.,2025-11-10,Olivia,20,Testing,In Progress,Medium
+301,Design task to handle UX and color.,2025-11-03,Ava,16,Design,In Progress,Medium
+302,Design task to handle color and UI.,2025-11-29,Emma,8,Design,In Progress,Low
+303,Development task to handle feature and backend.,2025-10-18,Lucas,28,Development,Pending,High
+304,Development task to handle database and module.,2025-10-29,Sophia,17,Development,In Progress,Medium
+305,Documentation task to handle reference and docs.,2025-11-15,Lucas,9,Documentation,In Progress,Low
+306,Documentation task to handle notes and reference.,2025-12-04,Olivia,3,Documentation,In Progress,Low
+307,Testing task to handle validation and QA.,2025-10-30,Noah,25,Testing,In Progress,Medium
+308,Deployment task to handle environment and deploy.,2025-11-14,Noah,12,Deployment,In Progress,Medium
+309,Documentation task to handle summary and notes.,2025-11-18,Noah,6,Documentation,In Progress,Low
+310,Deployment task to handle deploy and CI/CD.,2025-10-19,Isabella,26,Deployment,Pending,High
+311,Documentation task to handle instructions and manual.,2025-11-14,Noah,3,Documentation,In Progress,Low
+312,Design task to handle design and UI.,2025-11-23,Liam,7,Design,In Progress,Low
+313,Development task to handle logic and backend.,2025-10-26,Emma,19,Development,In Progress,Medium
+314,Deployment task to handle production and cloud.,2025-12-03,Sophia,10,Deployment,In Progress,Low
+315,Design task to handle design and color.,2025-11-25,Mia,5,Design,In Progress,Low
+316,Development task to handle database and API.,2025-10-21,Liam,36,Development,In Progress,High
+317,Development task to handle backend and API.,2025-10-20,Emma,39,Development,In Progress,High
+318,Development task to handle module and logic.,2025-10-22,Ava,31,Development,In Progress,High
+319,Deployment task to handle server and container.,2025-11-07,Olivia,21,Deployment,In Progress,Medium
+320,Development task to handle logic and database.,2025-10-27,Mia,18,Development,In Progress,Medium
+321,Testing task to handle performance and cases.,2025-10-30,James,21,Testing,In Progress,Medium
+322,Documentation task to handle manual and reference.,2025-11-19,James,2,Documentation,Completed,Low
+323,Deployment task to handle container and server.,2025-11-04,Mia,21,Deployment,In Progress,Medium
+324,Testing task to handle performance and error.,2025-11-15,Sophia,10,Testing,In Progress,Low
+325,Testing task to handle validation and bug.,2025-11-01,Ava,17,Testing,In Progress,Medium
+326,Deployment task to handle CI/CD and environment.,2025-12-09,Liam,8,Deployment,In Progress,Low
+327,Deployment task to handle deploy and environment.,2025-10-27,Olivia,22,Deployment,In Progress,Medium
+328,Documentation task to handle instructions and notes.,2025-11-19,James,7,Documentation,Completed,Low
+329,Documentation task to handle guide and manual.,2025-12-14,Mia,8,Documentation,In Progress,Low
+330,Development task to handle API and logic.,2025-10-29,Isabella,20,Development,In Progress,Medium
+331,Development task to handle API and function.,2025-11-10,Isabella,11,Development,In Progress,Medium
+332,Documentation task to handle reference and manual.,2025-11-20,Emma,3,Documentation,Completed,Low
+333,Testing task to handle QA and validation.,2025-11-08,Ava,23,Testing,In Progress,Medium
+334,Design task to handle color and layout.,2025-11-18,Sophia,9,Design,In Progress,Low
+335,Development task to handle database and module.,2025-10-18,Emma,29,Development,In Progress,High
+336,Development task to handle module and function.,2025-10-20,Mia,38,Development,In Progress,High
+337,Deployment task to handle environment and cloud.,2025-10-23,Ava,30,Deployment,Pending,High
+338,Testing task to handle performance and test.,2025-11-29,Olivia,10,Testing,In Progress,Low
+339,Documentation task to handle guide and docs.,2025-11-24,Isabella,2,Documentation,In Progress,Low
+340,Development task to handle logic and function.,2025-11-10,Liam,22,Development,In Progress,Medium
+341,Documentation task to handle notes and instructions.,2025-11-17,Isabella,9,Documentation,In Progress,Low
+342,Design task to handle UI and mockup.,2025-11-10,Emma,16,Design,In Progress,Medium
+343,Testing task to handle test and bug.,2025-11-08,Liam,18,Testing,In Progress,Medium
+344,Testing task to handle QA and cases.,2025-11-06,Mia,19,Testing,In Progress,Medium
+345,Development task to handle module and API.,2025-11-06,Lucas,21,Development,In Progress,Medium
+346,Deployment task to handle cloud and CI/CD.,2025-10-21,Isabella,30,Deployment,Pending,High
+347,Deployment task to handle container and deploy.,2025-11-07,Mia,21,Deployment,In Progress,Medium
+348,Testing task to handle error and bug.,2025-11-09,Mia,19,Testing,In Progress,Medium
+349,Development task to handle database and backend.,2025-10-20,Lucas,29,Development,Pending,High
+350,Development task to handle database and function.,2025-10-23,Ava,33,Development,In Progress,High
+351,Testing task to handle performance and QA.,2025-12-02,Ava,10,Testing,In Progress,Low
+352,Documentation task to handle docs and summary.,2025-11-15,Ava,7,Documentation,Completed,Low
+353,Deployment task to handle deploy and CI/CD.,2025-11-07,Isabella,21,Deployment,In Progress,Medium
+354,Testing task to handle error and QA.,2025-11-24,Emma,9,Testing,In Progress,Low
+355,Documentation task to handle docs and instructions.,2025-12-02,Liam,10,Documentation,In Progress,Low
+356,Documentation task to handle docs and notes.,2025-12-07,Emma,6,Documentation,Completed,Low
+357,Development task to handle feature and database.,2025-11-30,Emma,10,Development,In Progress,Low
+358,Documentation task to handle notes and summary.,2025-11-14,James,2,Documentation,In Progress,Low
+359,Deployment task to handle container and CI/CD.,2025-11-05,Lucas,18,Deployment,In Progress,Medium
+360,Deployment task to handle deploy and container.,2025-10-31,Ava,15,Deployment,In Progress,Medium
+361,Testing task to handle validation and QA.,2025-10-29,Ava,13,Testing,In Progress,Medium
+362,Deployment task to handle server and production.,2025-11-01,Lucas,13,Deployment,In Progress,Medium
+363,Deployment task to handle CI/CD and server.,2025-10-25,Mia,22,Deployment,In Progress,Medium
+364,Development task to handle module and function.,2025-10-20,Emma,36,Development,Pending,High
+365,Documentation task to handle guide and notes.,2025-12-13,Lucas,5,Documentation,Completed,Low
+366,Development task to handle API and backend.,2025-10-21,Sophia,32,Development,In Progress,High
+367,Deployment task to handle CI/CD and environment.,2025-10-27,Sophia,13,Deployment,In Progress,Medium
+368,Documentation task to handle docs and reference.,2025-11-20,Liam,9,Documentation,In Progress,Low
+369,Documentation task to handle instructions and notes.,2025-11-26,Noah,9,Documentation,In Progress,Low
+370,Design task to handle layout and UI.,2025-10-30,Emma,15,Design,In Progress,Medium
+371,Testing task to handle cases and QA.,2025-11-08,Mia,22,Testing,In Progress,Medium
+372,Documentation task to handle docs and summary.,2025-12-08,Mia,5,Documentation,Completed,Low
+373,Development task to handle function and module.,2025-11-09,Olivia,14,Development,In Progress,Medium
+374,Development task to handle database and function.,2025-10-18,Mia,34,Development,Pending,High
+375,Documentation task to handle notes and docs.,2025-11-24,Liam,5,Documentation,In Progress,Low
+376,Development task to handle function and database.,2025-11-14,Liam,14,Development,In Progress,Medium
+377,Testing task to handle bug and validation.,2025-11-03,Olivia,14,Testing,In Progress,Medium
+378,Deployment task to handle CI/CD and cloud.,2025-11-08,Sophia,23,Deployment,In Progress,Medium
+379,Deployment task to handle CI/CD and cloud.,2025-11-28,Olivia,9,Deployment,In Progress,Low
+380,Development task to handle API and backend.,2025-10-20,Lucas,26,Development,Pending,High
+381,Testing task to handle test and error.,2025-10-29,Liam,12,Testing,In Progress,Medium
+382,Deployment task to handle server and production.,2025-10-31,Sophia,21,Deployment,In Progress,Medium
+383,Design task to handle mockup and layout.,2025-11-13,Isabella,11,Design,In Progress,Medium
+384,Testing task to handle test and performance.,2025-11-02,James,13,Testing,In Progress,Medium
+385,Design task to handle color and mockup.,2025-11-02,Sophia,14,Design,In Progress,Medium
+386,Design task to handle UX and color.,2025-11-09,Sophia,16,Design,In Progress,Medium
+387,Deployment task to handle container and environment.,2025-10-26,Olivia,24,Deployment,In Progress,Medium
+388,Development task to handle API and database.,2025-10-20,Emma,36,Development,Pending,High
+389,Documentation task to handle summary and reference.,2025-12-07,James,2,Documentation,In Progress,Low
+390,Development task to handle backend and module.,2025-10-25,Olivia,18,Development,In Progress,Medium
+391,Deployment task to handle server and deploy.,2025-12-06,Isabella,10,Deployment,In Progress,Low
+392,Documentation task to handle reference and docs.,2025-11-19,James,4,Documentation,In Progress,Low
+393,Deployment task to handle environment and cloud.,2025-11-02,Olivia,15,Deployment,In Progress,Medium
+394,Design task to handle mockup and banner.,2025-11-03,Ava,18,Design,In Progress,Medium
+395,Development task to handle database and function.,2025-10-25,Sophia,33,Development,Pending,High
+396,Deployment task to handle environment and production.,2025-10-23,Ava,28,Deployment,In Progress,High
+397,Deployment task to handle container and environment.,2025-11-29,Ava,10,Deployment,In Progress,Low
+398,Testing task to handle cases and test.,2025-10-26,Liam,19,Testing,In Progress,Medium
+399,Documentation task to handle instructions and manual.,2025-11-19,Noah,10,Documentation,In Progress,Low
+400,Testing task to handle validation and error.,2025-12-10,James,9,Testing,In Progress,Low
+401,Design task to handle UI and banner.,2025-10-25,Noah,20,Design,In Progress,Medium
+402,Testing task to handle test and error.,2025-11-08,Mia,16,Testing,In Progress,Medium
+403,Deployment task to handle CI/CD and environment.,2025-10-31,Mia,16,Deployment,In Progress,Medium
+404,Design task to handle design and layout.,2025-11-26,James,6,Design,Completed,Low
+405,Deployment task to handle deploy and cloud.,2025-11-14,Mia,19,Deployment,In Progress,Medium
+406,Design task to handle UI and banner.,2025-11-08,Isabella,19,Design,In Progress,Medium
+407,Design task to handle banner and UI.,2025-10-30,Mia,15,Design,In Progress,Medium
+408,Development task to handle database and API.,2025-11-06,Ava,14,Development,In Progress,Medium
+409,Testing task to handle test and error.,2025-11-08,Isabella,21,Testing,In Progress,Medium
+410,Development task to handle module and backend.,2025-10-22,Isabella,27,Development,In Progress,High
+411,Documentation task to handle summary and guide.,2025-11-18,James,7,Documentation,Completed,Low
+412,Design task to handle mockup and color.,2025-11-17,Lucas,6,Design,Completed,Low
+413,Design task to handle UX and design.,2025-12-11,Liam,5,Design,In Progress,Low
+414,Design task to handle color and banner.,2025-12-07,Isabella,6,Design,Completed,Low
+415,Deployment task to handle CI/CD and container.,2025-12-03,Noah,10,Deployment,In Progress,Low
+416,Deployment task to handle production and environment.,2025-11-07,Sophia,23,Deployment,In Progress,Medium
+417,Development task to handle feature and logic.,2025-11-08,Mia,13,Development,In Progress,Medium
+418,Testing task to handle QA and bug.,2025-11-04,Ava,22,Testing,In Progress,Medium
+419,Development task to handle module and logic.,2025-10-27,Ava,14,Development,In Progress,Medium
+420,Design task to handle UI and mockup.,2025-12-01,Sophia,10,Design,In Progress,Low
+421,Design task to handle design and UX.,2025-10-27,James,13,Design,In Progress,Medium
+422,Development task to handle database and API.,2025-10-23,Noah,34,Development,In Progress,High
+423,Development task to handle function and feature.,2025-11-08,Olivia,17,Development,In Progress,Medium
+424,Documentation task to handle notes and manual.,2025-11-23,Mia,10,Documentation,In Progress,Low
+425,Testing task to handle error and performance.,2025-11-11,Emma,14,Testing,In Progress,Medium
+426,Testing task to handle error and test.,2025-11-06,Mia,12,Testing,In Progress,Medium
+427,Deployment task to handle server and cloud.,2025-11-07,Sophia,18,Deployment,In Progress,Medium
+428,Development task to handle backend and module.,2025-11-10,Mia,17,Development,In Progress,Medium
+429,Documentation task to handle manual and reference.,2025-11-23,Mia,6,Documentation,In Progress,Low
+430,Documentation task to handle manual and guide.,2025-12-06,Olivia,4,Documentation,Completed,Low
+431,Design task to handle UX and mockup.,2025-11-06,Olivia,17,Design,In Progress,Medium
+432,Deployment task to handle production and CI/CD.,2025-11-29,Emma,8,Deployment,In Progress,Low
+433,Development task to handle backend and database.,2025-11-19,Noah,10,Development,In Progress,Low
+434,Development task to handle API and logic.,2025-10-24,Ava,32,Development,Pending,High
+435,Deployment task to handle server and deploy.,2025-11-12,Ava,18,Deployment,In Progress,Medium
+436,Testing task to handle performance and error.,2025-11-11,Emma,16,Testing,In Progress,Medium
+437,Deployment task to handle CI/CD and server.,2025-11-14,Ava,12,Deployment,In Progress,Medium
+438,Development task to handle API and logic.,2025-10-29,Isabella,16,Development,In Progress,Medium
+439,Deployment task to handle cloud and environment.,2025-11-02,Noah,21,Deployment,In Progress,Medium
+440,Deployment task to handle deploy and server.,2025-11-26,Isabella,9,Deployment,In Progress,Low
+441,Testing task to handle performance and error.,2025-11-03,James,24,Testing,In Progress,Medium
+442,Documentation task to handle notes and guide.,2025-11-18,Lucas,2,Documentation,Completed,Low
+443,Documentation task to handle notes and summary.,2025-11-21,Mia,3,Documentation,In Progress,Low
+444,Testing task to handle validation and bug.,2025-11-02,James,24,Testing,In Progress,Medium
+445,Design task to handle UX and banner.,2025-12-10,Olivia,7,Design,In Progress,Low
+446,Deployment task to handle environment and cloud.,2025-10-18,Emma,27,Deployment,Pending,High
+447,Documentation task to handle guide and reference.,2025-12-10,Emma,6,Documentation,In Progress,Low
+448,Deployment task to handle cloud and CI/CD.,2025-11-14,Olivia,19,Deployment,In Progress,Medium
+449,Testing task to handle test and performance.,2025-10-27,Olivia,11,Testing,In Progress,Medium
+450,Deployment task to handle deploy and container.,2025-11-23,Mia,10,Deployment,In Progress,Low
+451,Design task to handle design and layout.,2025-11-04,Ava,18,Design,In Progress,Medium
+452,Development task to handle logic and feature.,2025-10-21,Ava,37,Development,Pending,High
+453,Deployment task to handle cloud and container.,2025-10-25,Emma,30,Deployment,In Progress,High
+454,Testing task to handle error and bug.,2025-10-30,Mia,20,Testing,In Progress,Medium
+455,Testing task to handle QA and error.,2025-12-13,Mia,10,Testing,In Progress,Low
+456,Documentation task to handle reference and manual.,2025-12-10,Lucas,2,Documentation,Completed,Low
+457,Development task to handle API and logic.,2025-11-13,Lucas,22,Development,In Progress,Medium
+458,Design task to handle UX and UI.,2025-11-10,Olivia,18,Design,In Progress,Medium
+459,Deployment task to handle cloud and server.,2025-10-24,Liam,28,Deployment,In Progress,High
+460,Testing task to handle error and cases.,2025-11-14,Liam,20,Testing,In Progress,Medium
+461,Deployment task to handle container and CI/CD.,2025-10-27,Noah,24,Deployment,In Progress,Medium
+462,Development task to handle API and feature.,2025-11-12,James,16,Development,In Progress,Medium
+463,Testing task to handle test and QA.,2025-10-30,Mia,20,Testing,In Progress,Medium
+464,Documentation task to handle instructions and notes.,2025-12-01,Ava,7,Documentation,In Progress,Low
+465,Deployment task to handle environment and container.,2025-12-07,Liam,9,Deployment,In Progress,Low
+466,Deployment task to handle production and environment.,2025-11-05,Olivia,25,Deployment,In Progress,Medium
+467,Design task to handle design and layout.,2025-11-03,Olivia,17,Design,In Progress,Medium
+468,Design task to handle UX and mockup.,2025-12-03,Ava,6,Design,Completed,Low
+469,Deployment task to handle environment and production.,2025-11-09,Sophia,15,Deployment,In Progress,Medium
+470,Deployment task to handle CI/CD and server.,2025-10-21,Mia,30,Deployment,In Progress,High
+471,Design task to handle UX and layout.,2025-11-08,Lucas,18,Design,In Progress,Medium
+472,Testing task to handle QA and test.,2025-11-15,Olivia,8,Testing,In Progress,Low
+473,Deployment task to handle container and CI/CD.,2025-10-26,Noah,22,Deployment,In Progress,Medium
+474,Development task to handle API and backend.,2025-11-07,James,20,Development,In Progress,Medium
+475,Design task to handle color and UI.,2025-11-05,Lucas,17,Design,In Progress,Medium
+476,Design task to handle color and design.,2025-11-11,Isabella,20,Design,In Progress,Medium
+477,Documentation task to handle instructions and summary.,2025-12-07,Noah,9,Documentation,In Progress,Low
+478,Design task to handle banner and UX.,2025-12-09,Isabella,8,Design,In Progress,Low
+479,Testing task to handle cases and performance.,2025-10-31,Lucas,23,Testing,In Progress,Medium
+480,Deployment task to handle CI/CD and environment.,2025-12-09,Sophia,10,Deployment,In Progress,Low
+481,Testing task to handle test and bug.,2025-11-03,Sophia,11,Testing,In Progress,Medium
+482,Testing task to handle performance and bug.,2025-10-31,Liam,11,Testing,In Progress,Medium
+483,Development task to handle database and function.,2025-10-23,Emma,36,Development,Pending,High
+484,Testing task to handle cases and performance.,2025-10-25,Sophia,15,Testing,In Progress,Medium
+485,Design task to handle banner and UI.,2025-11-21,Isabella,9,Design,In Progress,Low
+486,Development task to handle logic and API.,2025-10-29,Isabella,20,Development,In Progress,Medium
+487,Deployment task to handle environment and cloud.,2025-11-08,Liam,14,Deployment,In Progress,Medium
+488,Deployment task to handle CI/CD and deploy.,2025-12-14,Mia,10,Deployment,In Progress,Low
+489,Documentation task to handle summary and notes.,2025-11-25,Lucas,8,Documentation,In Progress,Low
+490,Documentation task to handle guide and reference.,2025-12-09,Noah,3,Documentation,In Progress,Low
+491,Testing task to handle test and bug.,2025-11-04,Emma,11,Testing,In Progress,Medium
+492,Documentation task to handle instructions and summary.,2025-11-19,Mia,10,Documentation,In Progress,Low
+493,Testing task to handle test and performance.,2025-11-02,Mia,11,Testing,In Progress,Medium
+494,Development task to handle API and function.,2025-10-20,James,31,Development,Pending,High
+495,Design task to handle layout and UX.,2025-11-14,Lucas,15,Design,In Progress,Medium
+496,Development task to handle logic and feature.,2025-10-21,Emma,28,Development,In Progress,High
+497,Testing task to handle cases and validation.,2025-11-03,Noah,11,Testing,In Progress,Medium
+498,Design task to handle mockup and color.,2025-11-08,Noah,18,Design,In Progress,Medium
+499,Documentation task to handle docs and guide.,2025-12-14,Isabella,2,Documentation,Completed,Low
+500,Development task to handle logic and API.,2025-10-24,Isabella,37,Development,Pending,High
+501,Deployment task to handle environment and container.,2025-12-05,Isabella,10,Deployment,In Progress,Low
+502,Deployment task to handle cloud and production.,2025-12-01,Lucas,9,Deployment,In Progress,Low
+503,Development task to handle API and function.,2025-11-28,Sophia,10,Development,In Progress,Low
+504,Testing task to handle cases and validation.,2025-11-05,Sophia,17,Testing,In Progress,Medium
+505,Development task to handle function and module.,2025-10-21,Noah,39,Development,Pending,High
+506,Development task to handle database and module.,2025-10-25,Olivia,29,Development,Pending,High
+507,Development task to handle function and logic.,2025-10-19,Ava,35,Development,Pending,High
+508,Deployment task to handle container and production.,2025-11-04,James,17,Deployment,In Progress,Medium
+509,Testing task to handle cases and error.,2025-11-14,Olivia,22,Testing,In Progress,Medium
+510,Deployment task to handle cloud and production.,2025-10-30,Sophia,13,Deployment,In Progress,Medium
+511,Deployment task to handle container and production.,2025-10-19,Noah,29,Deployment,In Progress,High
+512,Design task to handle banner and mockup.,2025-11-15,Liam,6,Design,In Progress,Low
+513,Design task to handle mockup and layout.,2025-11-12,James,11,Design,In Progress,Medium
+514,Development task to handle API and logic.,2025-11-04,James,23,Development,In Progress,Medium
+515,Deployment task to handle environment and server.,2025-10-26,Liam,22,Deployment,In Progress,Medium
+516,Documentation task to handle summary and instructions.,2025-12-12,Sophia,2,Documentation,In Progress,Low
+517,Testing task to handle performance and test.,2025-11-09,Emma,11,Testing,In Progress,Medium
+518,Documentation task to handle instructions and summary.,2025-11-20,James,4,Documentation,Completed,Low
+519,Design task to handle color and mockup.,2025-11-09,Lucas,18,Design,In Progress,Medium
+520,Testing task to handle bug and cases.,2025-11-03,Olivia,13,Testing,In Progress,Medium
+521,Testing task to handle bug and test.,2025-11-10,Olivia,15,Testing,In Progress,Medium
+522,Documentation task to handle notes and docs.,2025-11-15,Isabella,5,Documentation,In Progress,Low
+523,Testing task to handle performance and error.,2025-10-28,Liam,13,Testing,In Progress,Medium
+524,Design task to handle mockup and layout.,2025-12-05,Lucas,9,Design,In Progress,Low
+525,Documentation task to handle instructions and notes.,2025-11-26,Olivia,3,Documentation,In Progress,Low
+526,Design task to handle mockup and layout.,2025-10-27,Sophia,18,Design,In Progress,Medium
+527,Development task to handle database and API.,2025-10-22,Lucas,36,Development,Pending,High
+528,Documentation task to handle docs and notes.,2025-11-25,Isabella,7,Documentation,In Progress,Low
+529,Design task to handle layout and design.,2025-11-13,Emma,15,Design,In Progress,Medium
+530,Design task to handle layout and design.,2025-11-12,James,12,Design,In Progress,Medium
+531,Documentation task to handle reference and manual.,2025-11-20,Mia,6,Documentation,Completed,Low
+532,Testing task to handle QA and test.,2025-11-09,James,16,Testing,In Progress,Medium
+533,Documentation task to handle manual and instructions.,2025-12-07,Isabella,10,Documentation,In Progress,Low
+534,Development task to handle API and backend.,2025-11-09,Olivia,17,Development,In Progress,Medium
+535,Deployment task to handle deploy and production.,2025-11-23,Sophia,9,Deployment,In Progress,Low
+536,Development task to handle function and backend.,2025-10-25,Isabella,38,Development,Pending,High
+537,Documentation task to handle notes and manual.,2025-11-17,Mia,6,Documentation,In Progress,Low
+538,Development task to handle backend and logic.,2025-10-19,James,29,Development,In Progress,High
+539,Deployment task to handle production and cloud.,2025-11-03,Mia,19,Deployment,In Progress,Medium
+540,Development task to handle logic and database.,2025-11-02,Sophia,21,Development,In Progress,Medium
+541,Development task to handle database and API.,2025-10-29,Emma,13,Development,In Progress,Medium
+542,Design task to handle color and mockup.,2025-11-07,Isabella,11,Design,In Progress,Medium
+543,Testing task to handle test and validation.,2025-12-14,Sophia,8,Testing,In Progress,Low
+544,Development task to handle backend and module.,2025-11-02,Noah,16,Development,In Progress,Medium
+545,Testing task to handle QA and test.,2025-11-12,Lucas,14,Testing,In Progress,Medium
+546,Documentation task to handle manual and notes.,2025-11-17,Isabella,3,Documentation,In Progress,Low
+547,Deployment task to handle deploy and cloud.,2025-10-20,Lucas,27,Deployment,Pending,High
+548,Testing task to handle bug and test.,2025-10-30,Sophia,17,Testing,In Progress,Medium
+549,Documentation task to handle notes and manual.,2025-12-13,Emma,6,Documentation,In Progress,Low
+550,Deployment task to handle server and container.,2025-10-23,James,27,Deployment,In Progress,High
+551,Documentation task to handle instructions and summary.,2025-12-06,Emma,5,Documentation,Completed,Low
+552,Development task to handle feature and module.,2025-10-29,Isabella,18,Development,In Progress,Medium
+553,Deployment task to handle environment and container.,2025-11-17,Isabella,9,Deployment,In Progress,Low
+554,Testing task to handle validation and performance.,2025-11-25,Emma,8,Testing,In Progress,Low
+555,Deployment task to handle environment and container.,2025-10-31,Mia,13,Deployment,In Progress,Medium
+556,Documentation task to handle notes and instructions.,2025-11-27,Emma,9,Documentation,In Progress,Low
+557,Testing task to handle bug and error.,2025-11-11,Emma,13,Testing,In Progress,Medium
+558,Design task to handle design and mockup.,2025-10-25,Ava,11,Design,In Progress,Medium
+559,Testing task to handle QA and performance.,2025-10-26,Emma,21,Testing,In Progress,Medium
+560,Design task to handle layout and UI.,2025-11-23,Noah,8,Design,In Progress,Low
+561,Design task to handle banner and layout.,2025-11-03,James,12,Design,In Progress,Medium
+562,Deployment task to handle production and deploy.,2025-11-02,Olivia,14,Deployment,In Progress,Medium
+563,Testing task to handle bug and QA.,2025-11-10,Lucas,17,Testing,In Progress,Medium
+564,Testing task to handle error and performance.,2025-12-11,Sophia,10,Testing,In Progress,Low
+565,Documentation task to handle notes and manual.,2025-12-05,Ava,10,Documentation,In Progress,Low
+566,Documentation task to handle instructions and summary.,2025-12-04,Mia,6,Documentation,Completed,Low
+567,Documentation task to handle manual and notes.,2025-12-05,Liam,5,Documentation,Completed,Low
+568,Deployment task to handle cloud and production.,2025-11-07,Liam,11,Deployment,In Progress,Medium
+569,Design task to handle design and UX.,2025-10-30,Mia,13,Design,In Progress,Medium
+570,Documentation task to handle docs and reference.,2025-11-19,Liam,6,Documentation,Completed,Low
+571,Documentation task to handle summary and manual.,2025-11-20,Emma,5,Documentation,Completed,Low
+572,Design task to handle mockup and UI.,2025-11-29,Liam,6,Design,In Progress,Low
+573,Deployment task to handle server and CI/CD.,2025-10-20,Mia,28,Deployment,In Progress,High
+574,Documentation task to handle reference and guide.,2025-12-12,Emma,9,Documentation,In Progress,Low
+575,Testing task to handle test and error.,2025-11-04,Isabella,25,Testing,In Progress,Medium
+576,Deployment task to handle production and environment.,2025-11-20,Lucas,9,Deployment,In Progress,Low
+577,Development task to handle feature and database.,2025-11-03,Lucas,20,Development,In Progress,Medium
+578,Design task to handle layout and mockup.,2025-12-01,Olivia,5,Design,In Progress,Low
+579,Deployment task to handle deploy and CI/CD.,2025-11-29,Liam,10,Deployment,In Progress,Low
+580,Design task to handle color and banner.,2025-10-31,Liam,13,Design,In Progress,Medium
+581,Deployment task to handle container and production.,2025-11-12,Olivia,11,Deployment,In Progress,Medium
+582,Testing task to handle validation and cases.,2025-10-29,Isabella,17,Testing,In Progress,Medium
+583,Development task to handle database and module.,2025-10-24,Noah,38,Development,Pending,High
+584,Deployment task to handle container and production.,2025-11-16,Olivia,8,Deployment,In Progress,Low
+585,Development task to handle feature and backend.,2025-10-22,Emma,34,Development,Pending,High
+586,Design task to handle color and banner.,2025-12-03,Sophia,6,Design,Completed,Low
+587,Deployment task to handle container and CI/CD.,2025-11-20,Mia,8,Deployment,In Progress,Low
+588,Development task to handle database and backend.,2025-10-25,Lucas,27,Development,Pending,High
+589,Design task to handle UI and layout.,2025-10-29,Olivia,18,Design,In Progress,Medium
+590,Deployment task to handle container and deploy.,2025-11-01,Olivia,25,Deployment,In Progress,Medium
+591,Development task to handle function and database.,2025-11-01,Mia,18,Development,In Progress,Medium
+592,Testing task to handle QA and performance.,2025-10-25,Olivia,12,Testing,In Progress,Medium
+593,Testing task to handle bug and cases.,2025-11-02,James,21,Testing,In Progress,Medium
+594,Development task to handle function and logic.,2025-10-22,Olivia,37,Development,Pending,High
+595,Design task to handle mockup and UX.,2025-11-22,Isabella,6,Design,Completed,Low
+596,Documentation task to handle instructions and summary.,2025-12-06,Isabella,8,Documentation,In Progress,Low
+597,Design task to handle UX and banner.,2025-12-14,Sophia,10,Design,In Progress,Low
+598,Testing task to handle QA and performance.,2025-10-25,James,22,Testing,In Progress,Medium
+599,Testing task to handle test and performance.,2025-11-05,Emma,14,Testing,In Progress,Medium
+600,Deployment task to handle production and server.,2025-11-10,Ava,25,Deployment,In Progress,Medium
+601,Testing task to handle performance and QA.,2025-11-09,Emma,14,Testing,In Progress,Medium
+602,Testing task to handle bug and test.,2025-11-12,Emma,17,Testing,In Progress,Medium
+603,Documentation task to handle instructions and docs.,2025-12-05,Liam,6,Documentation,In Progress,Low
+604,Development task to handle module and backend.,2025-10-30,Noah,12,Development,In Progress,Medium
+605,Testing task to handle validation and error.,2025-11-03,James,18,Testing,In Progress,Medium
+606,Documentation task to handle docs and reference.,2025-12-04,Mia,9,Documentation,In Progress,Low
+607,Development task to handle API and function.,2025-10-25,Mia,27,Development,In Progress,High
+608,Documentation task to handle manual and reference.,2025-12-13,Noah,4,Documentation,Completed,Low
+609,Deployment task to handle container and cloud.,2025-10-31,Mia,17,Deployment,In Progress,Medium
+610,Development task to handle function and feature.,2025-10-24,Lucas,35,Development,Pending,High
+611,Documentation task to handle notes and manual.,2025-11-14,Mia,6,Documentation,In Progress,Low
+612,Development task to handle feature and function.,2025-10-25,Isabella,35,Development,Pending,High
+613,Development task to handle module and database.,2025-11-06,Mia,20,Development,In Progress,Medium
+614,Documentation task to handle docs and notes.,2025-11-14,Ava,6,Documentation,Completed,Low
+615,Design task to handle color and design.,2025-11-08,Sophia,13,Design,In Progress,Medium
+616,Deployment task to handle production and environment.,2025-10-25,Olivia,14,Deployment,In Progress,Medium
+617,Deployment task to handle deploy and environment.,2025-11-03,Isabella,20,Deployment,In Progress,Medium
+618,Design task to handle UI and design.,2025-10-29,Sophia,13,Design,In Progress,Medium
+619,Documentation task to handle manual and guide.,2025-12-12,Lucas,10,Documentation,In Progress,Low
+620,Design task to handle layout and design.,2025-11-11,Emma,16,Design,In Progress,Medium
+621,Development task to handle API and logic.,2025-10-23,Olivia,31,Development,In Progress,High
+622,Design task to handle layout and mockup.,2025-12-14,Liam,8,Design,In Progress,Low
+623,Deployment task to handle production and container.,2025-11-21,Ava,8,Deployment,In Progress,Low
+624,Testing task to handle bug and QA.,2025-11-13,Emma,17,Testing,In Progress,Medium
+625,Development task to handle function and logic.,2025-10-24,Mia,34,Development,In Progress,High
+626,Design task to handle banner and layout.,2025-11-05,James,18,Design,In Progress,Medium
+627,Deployment task to handle cloud and CI/CD.,2025-10-29,Lucas,12,Deployment,In Progress,Medium
+628,Development task to handle module and backend.,2025-10-26,James,20,Development,In Progress,Medium
+629,Development task to handle logic and backend.,2025-10-29,James,14,Development,In Progress,Medium
+630,Development task to handle database and function.,2025-10-22,Mia,30,Development,In Progress,High
+631,Design task to handle UI and UX.,2025-11-12,Emma,19,Design,In Progress,Medium
+632,Deployment task to handle environment and deploy.,2025-10-21,Isabella,28,Deployment,In Progress,High
+633,Documentation task to handle manual and reference.,2025-11-16,Emma,8,Documentation,In Progress,Low
+634,Documentation task to handle summary and manual.,2025-11-23,James,8,Documentation,In Progress,Low
+635,Documentation task to handle instructions and notes.,2025-12-12,Olivia,4,Documentation,In Progress,Low
+636,Design task to handle design and UX.,2025-11-07,Isabella,12,Design,In Progress,Medium
+637,Testing task to handle cases and validation.,2025-12-08,Olivia,9,Testing,In Progress,Low
+638,Design task to handle color and design.,2025-10-27,James,14,Design,In Progress,Medium
+639,Development task to handle backend and logic.,2025-10-23,Sophia,31,Development,In Progress,High
+640,Deployment task to handle deploy and environment.,2025-11-06,Noah,16,Deployment,In Progress,Medium
+641,Development task to handle API and logic.,2025-11-05,Isabella,16,Development,In Progress,Medium
+642,Deployment task to handle environment and CI/CD.,2025-11-05,Olivia,20,Deployment,In Progress,Medium
+643,Development task to handle function and feature.,2025-11-13,Mia,15,Development,In Progress,Medium
+644,Testing task to handle validation and error.,2025-11-08,Lucas,23,Testing,In Progress,Medium
+645,Development task to handle feature and API.,2025-10-18,Olivia,32,Development,Pending,High
+646,Design task to handle UI and UX.,2025-11-16,Liam,7,Design,Completed,Low
+647,Development task to handle backend and function.,2025-10-22,James,29,Development,In Progress,High
+648,Development task to handle database and API.,2025-10-18,Emma,29,Development,Pending,High
+649,Design task to handle layout and UX.,2025-12-02,Lucas,7,Design,Completed,Low
+650,Design task to handle UI and color.,2025-10-29,Liam,19,Design,In Progress,Medium
+651,Development task to handle backend and API.,2025-11-11,Liam,21,Development,In Progress,Medium
+652,Testing task to handle bug and test.,2025-12-01,James,9,Testing,In Progress,Low
+653,Testing task to handle bug and error.,2025-11-07,James,18,Testing,In Progress,Medium
+654,Deployment task to handle deploy and server.,2025-11-02,Emma,17,Deployment,In Progress,Medium
+655,Testing task to handle QA and validation.,2025-11-07,Mia,19,Testing,In Progress,Medium
+656,Development task to handle logic and backend.,2025-10-31,Noah,22,Development,In Progress,Medium
+657,Testing task to handle error and validation.,2025-11-11,Isabella,18,Testing,In Progress,Medium
+658,Testing task to handle validation and performance.,2025-11-12,Liam,18,Testing,In Progress,Medium
+659,Design task to handle design and banner.,2025-11-30,Isabella,9,Design,In Progress,Low
+660,Documentation task to handle summary and instructions.,2025-11-30,James,5,Documentation,Completed,Low
+661,Documentation task to handle reference and docs.,2025-11-24,Lucas,8,Documentation,In Progress,Low
+662,Development task to handle feature and API.,2025-10-25,Olivia,37,Development,Pending,High
+663,Design task to handle color and UX.,2025-11-13,Isabella,12,Design,In Progress,Medium
+664,Design task to handle banner and UX.,2025-11-08,James,14,Design,In Progress,Medium
+665,Development task to handle database and function.,2025-10-26,Emma,25,Development,In Progress,Medium
+666,Testing task to handle QA and error.,2025-12-08,Emma,10,Testing,In Progress,Low
+667,Documentation task to handle reference and summary.,2025-11-30,Ava,2,Documentation,In Progress,Low
+668,Design task to handle UI and banner.,2025-10-31,Liam,11,Design,In Progress,Medium
+669,Documentation task to handle guide and instructions.,2025-12-14,Emma,3,Documentation,Completed,Low
+670,Design task to handle banner and UX.,2025-10-27,Mia,17,Design,In Progress,Medium
+671,Documentation task to handle summary and instructions.,2025-11-20,Noah,10,Documentation,In Progress,Low
+672,Design task to handle design and UI.,2025-11-04,Emma,18,Design,In Progress,Medium
+673,Development task to handle backend and feature.,2025-10-20,Liam,29,Development,In Progress,High
+674,Documentation task to handle reference and manual.,2025-11-25,Sophia,3,Documentation,Completed,Low
+675,Deployment task to handle container and deploy.,2025-10-24,Liam,28,Deployment,In Progress,High
+676,Testing task to handle bug and test.,2025-10-25,Emma,11,Testing,In Progress,Medium
+677,Documentation task to handle docs and guide.,2025-11-24,Isabella,2,Documentation,Completed,Low
+678,Testing task to handle bug and cases.,2025-11-10,James,19,Testing,In Progress,Medium
+679,Documentation task to handle notes and manual.,2025-12-01,Isabella,10,Documentation,In Progress,Low
+680,Documentation task to handle docs and summary.,2025-11-20,Noah,10,Documentation,In Progress,Low
+681,Testing task to handle cases and QA.,2025-10-25,Lucas,24,Testing,In Progress,Medium
+682,Development task to handle module and function.,2025-11-13,Isabella,11,Development,In Progress,Medium
+683,Testing task to handle test and bug.,2025-11-10,Liam,13,Testing,In Progress,Medium
+684,Development task to handle database and module.,2025-10-29,Isabella,21,Development,In Progress,Medium
+685,Testing task to handle QA and performance.,2025-10-29,Lucas,23,Testing,In Progress,Medium
+686,Testing task to handle cases and QA.,2025-11-02,Ava,24,Testing,In Progress,Medium
+687,Design task to handle UI and mockup.,2025-11-12,Noah,19,Design,In Progress,Medium
+688,Documentation task to handle docs and manual.,2025-12-02,Isabella,3,Documentation,In Progress,Low
+689,Documentation task to handle notes and reference.,2025-12-02,Sophia,5,Documentation,Completed,Low
+690,Testing task to handle error and performance.,2025-12-12,Liam,8,Testing,In Progress,Low
+691,Testing task to handle test and QA.,2025-11-12,Noah,21,Testing,In Progress,Medium
+692,Documentation task to handle docs and guide.,2025-11-26,Noah,3,Documentation,Completed,Low
+693,Development task to handle backend and function.,2025-11-10,Ava,24,Development,In Progress,Medium
+694,Deployment task to handle deploy and CI/CD.,2025-11-14,Ava,13,Deployment,In Progress,Medium
+695,Development task to handle function and module.,2025-10-21,Mia,38,Development,Pending,High
+696,Testing task to handle bug and test.,2025-11-05,Sophia,17,Testing,In Progress,Medium
+697,Testing task to handle error and cases.,2025-10-27,Ava,22,Testing,In Progress,Medium
+698,Testing task to handle performance and error.,2025-12-10,Olivia,9,Testing,In Progress,Low
+699,Deployment task to handle CI/CD and server.,2025-11-06,Liam,14,Deployment,In Progress,Medium
+700,Testing task to handle performance and QA.,2025-11-02,James,20,Testing,In Progress,Medium
+701,Design task to handle layout and mockup.,2025-11-08,Noah,18,Design,In Progress,Medium
+702,Documentation task to handle reference and summary.,2025-12-02,Olivia,8,Documentation,In Progress,Low
+703,Deployment task to handle production and environment.,2025-11-27,Sophia,10,Deployment,In Progress,Low
+704,Deployment task to handle deploy and production.,2025-12-13,Isabella,8,Deployment,In Progress,Low
+705,Design task to handle layout and UI.,2025-11-21,Liam,5,Design,In Progress,Low
+706,Deployment task to handle container and server.,2025-10-18,Mia,29,Deployment,In Progress,High
+707,Deployment task to handle server and environment.,2025-11-22,Mia,9,Deployment,In Progress,Low
+708,Testing task to handle error and performance.,2025-11-04,Liam,22,Testing,In Progress,Medium
+709,Documentation task to handle summary and reference.,2025-11-20,Sophia,2,Documentation,In Progress,Low
+710,Testing task to handle validation and QA.,2025-11-11,Ava,12,Testing,In Progress,Medium
+711,Design task to handle layout and UX.,2025-12-08,James,6,Design,In Progress,Low
+712,Design task to handle layout and mockup.,2025-11-27,Isabella,9,Design,In Progress,Low
+713,Deployment task to handle environment and server.,2025-11-01,Lucas,24,Deployment,In Progress,Medium
+714,Testing task to handle performance and cases.,2025-11-04,Emma,23,Testing,In Progress,Medium
+715,Testing task to handle bug and performance.,2025-11-14,Isabella,14,Testing,In Progress,Medium
+716,Documentation task to handle notes and docs.,2025-12-12,Ava,8,Documentation,In Progress,Low
+717,Documentation task to handle manual and notes.,2025-12-12,James,6,Documentation,In Progress,Low
+718,Testing task to handle bug and validation.,2025-10-27,Liam,25,Testing,In Progress,Medium
+719,Documentation task to handle instructions and docs.,2025-12-04,Isabella,4,Documentation,In Progress,Low
+720,Deployment task to handle container and environment.,2025-11-07,Noah,24,Deployment,In Progress,Medium
+721,Testing task to handle validation and cases.,2025-11-03,Sophia,12,Testing,In Progress,Medium
+722,Design task to handle UX and color.,2025-10-30,Sophia,16,Design,In Progress,Medium
+723,Testing task to handle cases and bug.,2025-11-03,Emma,15,Testing,In Progress,Medium
+724,Development task to handle database and API.,2025-10-19,Liam,40,Development,Pending,High
+725,Development task to handle logic and database.,2025-11-03,Emma,25,Development,In Progress,Medium
+726,Testing task to handle cases and test.,2025-10-26,Emma,24,Testing,In Progress,Medium
+727,Testing task to handle validation and cases.,2025-10-30,Noah,21,Testing,In Progress,Medium
+728,Testing task to handle test and error.,2025-10-27,Emma,20,Testing,In Progress,Medium
+729,Design task to handle mockup and UX.,2025-12-07,Isabella,5,Design,In Progress,Low
+730,Deployment task to handle production and CI/CD.,2025-10-31,Mia,18,Deployment,In Progress,Medium
+731,Documentation task to handle guide and manual.,2025-11-24,Ava,3,Documentation,In Progress,Low
+732,Documentation task to handle instructions and guide.,2025-11-18,Liam,3,Documentation,In Progress,Low
+733,Documentation task to handle manual and guide.,2025-11-23,James,6,Documentation,Completed,Low
+734,Design task to handle UI and layout.,2025-11-30,Sophia,10,Design,In Progress,Low
+735,Testing task to handle validation and QA.,2025-11-03,Sophia,22,Testing,In Progress,Medium
+736,Development task to handle feature and module.,2025-11-05,Isabella,11,Development,In Progress,Medium
+737,Documentation task to handle docs and summary.,2025-11-23,Noah,8,Documentation,In Progress,Low
+738,Design task to handle layout and color.,2025-10-27,James,16,Design,In Progress,Medium
+739,Design task to handle mockup and UX.,2025-10-30,Noah,14,Design,In Progress,Medium
+740,Deployment task to handle server and deploy.,2025-10-23,Mia,30,Deployment,Pending,High
+741,Development task to handle backend and function.,2025-10-23,Ava,28,Development,In Progress,High
+742,Testing task to handle test and cases.,2025-11-10,Noah,11,Testing,In Progress,Medium
+743,Documentation task to handle manual and docs.,2025-12-14,James,4,Documentation,In Progress,Low
+744,Development task to handle API and feature.,2025-10-31,Ava,12,Development,In Progress,Medium
+745,Design task to handle layout and color.,2025-11-13,Olivia,16,Design,In Progress,Medium
+746,Testing task to handle validation and cases.,2025-10-29,Sophia,12,Testing,In Progress,Medium
+747,Documentation task to handle docs and manual.,2025-11-29,Sophia,4,Documentation,Completed,Low
+748,Documentation task to handle notes and docs.,2025-12-14,Sophia,10,Documentation,In Progress,Low
+749,Development task to handle backend and feature.,2025-11-05,Liam,20,Development,In Progress,Medium
+750,Deployment task to handle server and cloud.,2025-10-26,Mia,12,Deployment,In Progress,Medium
+751,Documentation task to handle manual and reference.,2025-12-08,Olivia,7,Documentation,Completed,Low
+752,Design task to handle mockup and banner.,2025-11-24,Noah,9,Design,In Progress,Low
+753,Documentation task to handle notes and summary.,2025-11-28,Sophia,7,Documentation,Completed,Low
+754,Testing task to handle performance and bug.,2025-11-14,Ava,8,Testing,In Progress,Low
+755,Deployment task to handle cloud and deploy.,2025-10-25,James,16,Deployment,In Progress,Medium
+756,Deployment task to handle container and cloud.,2025-10-27,James,20,Deployment,In Progress,Medium
+757,Development task to handle logic and backend.,2025-10-22,Isabella,38,Development,In Progress,High
+758,Design task to handle layout and banner.,2025-11-14,Noah,19,Design,In Progress,Medium
+759,Design task to handle color and mockup.,2025-11-13,Lucas,13,Design,In Progress,Medium
+760,Documentation task to handle docs and instructions.,2025-11-26,Emma,5,Documentation,Completed,Low
+761,Design task to handle UX and color.,2025-11-12,Mia,12,Design,In Progress,Medium
+762,Design task to handle banner and color.,2025-11-08,Olivia,18,Design,In Progress,Medium
+763,Documentation task to handle notes and instructions.,2025-11-26,Ava,3,Documentation,Completed,Low
+764,Deployment task to handle container and deploy.,2025-11-04,Mia,21,Deployment,In Progress,Medium
+765,Documentation task to handle manual and notes.,2025-11-19,Ava,10,Documentation,In Progress,Low
+766,Testing task to handle test and validation.,2025-10-28,Isabella,11,Testing,In Progress,Medium
+767,Deployment task to handle CI/CD and container.,2025-10-18,Ava,28,Deployment,Pending,High
+768,Development task to handle function and feature.,2025-10-19,Liam,30,Development,In Progress,High
+769,Testing task to handle error and cases.,2025-11-05,Olivia,15,Testing,In Progress,Medium
+770,Deployment task to handle deploy and server.,2025-11-13,Liam,17,Deployment,In Progress,Medium
+771,Design task to handle layout and design.,2025-12-04,Mia,6,Design,In Progress,Low
+772,Development task to handle API and module.,2025-11-09,Lucas,22,Development,In Progress,Medium
+773,Documentation task to handle manual and reference.,2025-11-19,Isabella,8,Documentation,In Progress,Low
+774,Design task to handle UI and mockup.,2025-12-01,Emma,9,Design,In Progress,Low
+775,Documentation task to handle docs and manual.,2025-11-23,Noah,8,Documentation,In Progress,Low
+776,Documentation task to handle reference and docs.,2025-12-11,James,7,Documentation,In Progress,Low
+777,Development task to handle API and module.,2025-10-18,Isabella,29,Development,Pending,High
+778,Design task to handle color and mockup.,2025-12-05,Ava,10,Design,In Progress,Low
+779,Development task to handle API and feature.,2025-10-18,James,39,Development,Pending,High
+780,Documentation task to handle manual and guide.,2025-12-12,Lucas,2,Documentation,Completed,Low
+781,Testing task to handle bug and QA.,2025-11-11,Emma,12,Testing,In Progress,Medium
+782,Design task to handle UI and layout.,2025-11-08,Liam,15,Design,In Progress,Medium
+783,Development task to handle module and API.,2025-10-22,James,40,Development,Pending,High
+784,Development task to handle backend and database.,2025-10-18,James,38,Development,In Progress,High
+785,Documentation task to handle reference and notes.,2025-11-14,Mia,3,Documentation,In Progress,Low
+786,Documentation task to handle reference and summary.,2025-12-12,Emma,7,Documentation,Completed,Low
+787,Testing task to handle QA and performance.,2025-10-29,Noah,16,Testing,In Progress,Medium
+788,Development task to handle backend and function.,2025-10-18,Olivia,39,Development,In Progress,High
+789,Deployment task to handle container and production.,2025-11-06,Sophia,22,Deployment,In Progress,Medium
+790,Design task to handle banner and UI.,2025-11-08,James,18,Design,In Progress,Medium
+791,Deployment task to handle CI/CD and cloud.,2025-10-19,Lucas,27,Deployment,In Progress,High
+792,Testing task to handle performance and bug.,2025-11-12,Emma,20,Testing,In Progress,Medium
+793,Documentation task to handle summary and reference.,2025-12-13,Mia,2,Documentation,In Progress,Low
+794,Development task to handle module and database.,2025-10-26,Noah,13,Development,In Progress,Medium
+795,Development task to handle logic and function.,2025-11-12,Olivia,21,Development,In Progress,Medium
+796,Documentation task to handle manual and notes.,2025-11-28,Liam,4,Documentation,In Progress,Low
+797,Deployment task to handle production and CI/CD.,2025-10-23,James,28,Deployment,Pending,High
+798,Testing task to handle QA and validation.,2025-10-25,James,14,Testing,In Progress,Medium
+799,Documentation task to handle instructions and notes.,2025-11-20,Noah,3,Documentation,Completed,Low
+800,Documentation task to handle docs and instructions.,2025-12-05,Ava,9,Documentation,In Progress,Low
+801,Design task to handle UI and design.,2025-11-17,Emma,9,Design,In Progress,Low
+802,Documentation task to handle guide and summary.,2025-11-25,Lucas,7,Documentation,In Progress,Low
+803,Documentation task to handle docs and summary.,2025-12-01,Noah,4,Documentation,Completed,Low
+804,Design task to handle UI and design.,2025-11-11,Mia,14,Design,In Progress,Medium
+805,Design task to handle design and UI.,2025-12-12,Sophia,10,Design,In Progress,Low
+806,Development task to handle backend and database.,2025-10-23,Mia,30,Development,Pending,High
+807,Deployment task to handle container and CI/CD.,2025-11-03,Isabella,12,Deployment,In Progress,Medium
+808,Testing task to handle QA and cases.,2025-10-28,Lucas,23,Testing,In Progress,Medium
+809,Development task to handle database and API.,2025-10-22,Isabella,33,Development,Pending,High
+810,Development task to handle logic and API.,2025-10-24,Mia,34,Development,Pending,High
+811,Documentation task to handle guide and notes.,2025-11-30,Emma,4,Documentation,In Progress,Low
+812,Deployment task to handle environment and CI/CD.,2025-10-24,Olivia,28,Deployment,Pending,High
+813,Development task to handle API and feature.,2025-10-22,Ava,35,Development,Pending,High
+814,Development task to handle feature and backend.,2025-10-18,James,31,Development,In Progress,High
+815,Design task to handle UI and mockup.,2025-11-20,Ava,7,Design,Completed,Low
+816,Deployment task to handle server and container.,2025-11-06,Olivia,23,Deployment,In Progress,Medium
+817,Deployment task to handle environment and production.,2025-11-10,Noah,20,Deployment,In Progress,Medium
+818,Testing task to handle error and bug.,2025-11-14,Ava,25,Testing,In Progress,Medium
+819,Testing task to handle performance and error.,2025-11-14,Liam,21,Testing,In Progress,Medium
+820,Deployment task to handle deploy and container.,2025-11-10,Mia,18,Deployment,In Progress,Medium
+821,Development task to handle API and function.,2025-10-21,Noah,32,Development,Pending,High
+822,Design task to handle design and mockup.,2025-11-04,Sophia,20,Design,In Progress,Medium
+823,Testing task to handle test and QA.,2025-11-10,Olivia,15,Testing,In Progress,Medium
+824,Deployment task to handle cloud and production.,2025-10-28,Noah,13,Deployment,In Progress,Medium
+825,Development task to handle logic and API.,2025-10-23,Isabella,26,Development,Pending,High
+826,Testing task to handle bug and performance.,2025-11-11,Emma,21,Testing,In Progress,Medium
+827,Development task to handle database and function.,2025-11-03,Noah,12,Development,In Progress,Medium
+828,Design task to handle layout and color.,2025-11-29,Olivia,10,Design,In Progress,Low
+829,Testing task to handle cases and bug.,2025-10-29,Mia,24,Testing,In Progress,Medium
+830,Development task to handle module and function.,2025-10-20,Olivia,29,Development,In Progress,High
+831,Design task to handle layout and UX.,2025-11-09,Noah,18,Design,In Progress,Medium
+832,Deployment task to handle server and CI/CD.,2025-11-12,Ava,18,Deployment,In Progress,Medium
+833,Testing task to handle cases and performance.,2025-10-25,Liam,17,Testing,In Progress,Medium
+834,Testing task to handle validation and QA.,2025-10-28,Mia,14,Testing,In Progress,Medium
+835,Development task to handle feature and function.,2025-11-07,Lucas,17,Development,In Progress,Medium
+836,Design task to handle banner and mockup.,2025-12-14,Emma,7,Design,Completed,Low
+837,Deployment task to handle cloud and deploy.,2025-10-19,Mia,28,Deployment,In Progress,High
+838,Deployment task to handle production and CI/CD.,2025-10-26,Sophia,19,Deployment,In Progress,Medium
+839,Design task to handle design and banner.,2025-10-29,Noah,14,Design,In Progress,Medium
+840,Documentation task to handle guide and reference.,2025-12-01,Noah,7,Documentation,In Progress,Low
+841,Design task to handle color and mockup.,2025-10-25,Ava,13,Design,In Progress,Medium
+842,Documentation task to handle reference and summary.,2025-12-10,Emma,7,Documentation,Completed,Low
+843,Design task to handle UI and layout.,2025-11-07,Mia,19,Design,In Progress,Medium
+844,Deployment task to handle environment and deploy.,2025-11-07,Mia,16,Deployment,In Progress,Medium
+845,Deployment task to handle production and cloud.,2025-10-31,Olivia,18,Deployment,In Progress,Medium
+846,Development task to handle feature and logic.,2025-11-03,Sophia,19,Development,In Progress,Medium
+847,Development task to handle backend and logic.,2025-11-13,Liam,18,Development,In Progress,Medium
+848,Deployment task to handle CI/CD and deploy.,2025-11-01,James,17,Deployment,In Progress,Medium
+849,Testing task to handle cases and validation.,2025-11-02,Lucas,21,Testing,In Progress,Medium
+850,Development task to handle function and backend.,2025-10-30,Olivia,18,Development,In Progress,Medium
+851,Development task to handle database and logic.,2025-10-22,Mia,28,Development,Pending,High
+852,Development task to handle API and function.,2025-10-25,Isabella,25,Development,In Progress,Medium
+853,Documentation task to handle instructions and reference.,2025-11-26,Mia,6,Documentation,In Progress,Low
+854,Documentation task to handle reference and guide.,2025-12-01,Liam,2,Documentation,Completed,Low
+855,Design task to handle mockup and UI.,2025-11-09,Olivia,12,Design,In Progress,Medium
+856,Development task to handle backend and feature.,2025-10-22,James,40,Development,Pending,High
+857,Testing task to handle bug and cases.,2025-10-29,Isabella,11,Testing,In Progress,Medium
+858,Documentation task to handle guide and docs.,2025-12-04,Ava,5,Documentation,Completed,Low
+859,Design task to handle banner and color.,2025-11-25,Emma,6,Design,In Progress,Low
+860,Testing task to handle QA and error.,2025-11-30,James,10,Testing,In Progress,Low
+861,Deployment task to handle container and server.,2025-11-02,Isabella,16,Deployment,In Progress,Medium
+862,Documentation task to handle instructions and summary.,2025-12-03,Sophia,2,Documentation,Completed,Low
+863,Testing task to handle bug and cases.,2025-11-05,Ava,24,Testing,In Progress,Medium
+864,Testing task to handle error and test.,2025-10-27,Liam,20,Testing,In Progress,Medium
+865,Design task to handle UX and color.,2025-11-17,Mia,9,Design,In Progress,Low
+866,Development task to handle feature and function.,2025-10-23,Lucas,28,Development,In Progress,High
+867,Testing task to handle QA and bug.,2025-11-01,Ava,20,Testing,In Progress,Medium
+868,Testing task to handle QA and performance.,2025-12-06,Emma,9,Testing,In Progress,Low
+869,Design task to handle UX and banner.,2025-11-14,Olivia,5,Design,Completed,Low
+870,Testing task to handle bug and QA.,2025-10-29,Emma,16,Testing,In Progress,Medium
+871,Development task to handle module and API.,2025-10-23,Emma,26,Development,In Progress,High
+872,Testing task to handle QA and cases.,2025-11-08,Noah,23,Testing,In Progress,Medium
+873,Deployment task to handle environment and production.,2025-11-24,Sophia,9,Deployment,In Progress,Low
+874,Design task to handle mockup and design.,2025-11-04,Ava,14,Design,In Progress,Medium
+875,Development task to handle database and module.,2025-11-01,Lucas,21,Development,In Progress,Medium
+876,Documentation task to handle instructions and docs.,2025-12-13,Sophia,8,Documentation,In Progress,Low
+877,Design task to handle design and banner.,2025-11-12,Mia,14,Design,In Progress,Medium
+878,Development task to handle database and module.,2025-10-18,Olivia,39,Development,Pending,High
+879,Testing task to handle test and QA.,2025-11-05,Emma,22,Testing,In Progress,Medium
+880,Deployment task to handle container and cloud.,2025-11-10,Ava,24,Deployment,In Progress,Medium
+881,Deployment task to handle server and CI/CD.,2025-11-10,Noah,12,Deployment,In Progress,Medium
+882,Design task to handle banner and design.,2025-10-30,James,14,Design,In Progress,Medium
+883,Testing task to handle test and cases.,2025-12-04,Mia,9,Testing,In Progress,Low
+884,Documentation task to handle notes and manual.,2025-12-08,Mia,2,Documentation,Completed,Low
+885,Design task to handle UI and mockup.,2025-11-29,James,6,Design,In Progress,Low
+886,Testing task to handle error and QA.,2025-11-06,Lucas,22,Testing,In Progress,Medium
+887,Documentation task to handle notes and instructions.,2025-11-25,Ava,3,Documentation,In Progress,Low
+888,Testing task to handle test and QA.,2025-11-16,Emma,8,Testing,In Progress,Low
+889,Deployment task to handle deploy and container.,2025-11-04,James,21,Deployment,In Progress,Medium
+890,Testing task to handle validation and cases.,2025-11-03,Emma,17,Testing,In Progress,Medium
+891,Development task to handle API and function.,2025-10-28,James,16,Development,In Progress,Medium
+892,Design task to handle banner and mockup.,2025-12-12,Liam,8,Design,In Progress,Low
+893,Deployment task to handle deploy and production.,2025-11-05,Sophia,17,Deployment,In Progress,Medium
+894,Development task to handle API and function.,2025-10-21,Lucas,36,Development,In Progress,High
+895,Documentation task to handle summary and docs.,2025-11-14,Emma,10,Documentation,In Progress,Low
+896,Testing task to handle performance and QA.,2025-11-03,Ava,15,Testing,In Progress,Medium
+897,Testing task to handle validation and test.,2025-10-29,Emma,19,Testing,In Progress,Medium
+898,Development task to handle API and logic.,2025-10-20,Lucas,38,Development,Pending,High
+899,Testing task to handle cases and QA.,2025-11-26,Lucas,8,Testing,In Progress,Low
+900,Design task to handle UI and banner.,2025-11-08,Mia,11,Design,In Progress,Medium
+901,Deployment task to handle environment and CI/CD.,2025-10-19,Olivia,30,Deployment,Pending,High
+902,Testing task to handle test and validation.,2025-11-09,Lucas,23,Testing,In Progress,Medium
+903,Design task to handle UI and UX.,2025-12-10,Isabella,10,Design,In Progress,Low
+904,Deployment task to handle container and environment.,2025-10-30,Olivia,22,Deployment,In Progress,Medium
+905,Design task to handle banner and design.,2025-10-27,Olivia,12,Design,In Progress,Medium
+906,Development task to handle function and database.,2025-10-25,Olivia,32,Development,Pending,High
+907,Design task to handle banner and design.,2025-11-01,Liam,12,Design,In Progress,Medium
+908,Documentation task to handle summary and reference.,2025-11-29,James,4,Documentation,Completed,Low
+909,Design task to handle UI and layout.,2025-11-26,Lucas,7,Design,In Progress,Low
+910,Development task to handle database and module.,2025-10-20,James,33,Development,Pending,High
+911,Development task to handle logic and function.,2025-10-21,Sophia,30,Development,Pending,High
+912,Documentation task to handle summary and guide.,2025-12-05,Olivia,3,Documentation,In Progress,Low
+913,Testing task to handle validation and QA.,2025-11-08,Noah,21,Testing,In Progress,Medium
+914,Development task to handle logic and function.,2025-10-22,Isabella,32,Development,In Progress,High
+915,Development task to handle API and logic.,2025-10-18,Liam,34,Development,In Progress,High
+916,Deployment task to handle CI/CD and environment.,2025-11-06,Lucas,18,Deployment,In Progress,Medium
+917,Development task to handle API and module.,2025-10-19,Olivia,32,Development,In Progress,High
+918,Testing task to handle cases and performance.,2025-11-04,Mia,18,Testing,In Progress,Medium
+919,Testing task to handle QA and test.,2025-11-06,Noah,17,Testing,In Progress,Medium
+920,Design task to handle UI and color.,2025-12-02,Olivia,5,Design,Completed,Low
+921,Documentation task to handle summary and guide.,2025-12-08,Liam,8,Documentation,In Progress,Low
+922,Deployment task to handle cloud and server.,2025-11-04,Sophia,13,Deployment,In Progress,Medium
+923,Design task to handle color and banner.,2025-12-13,Isabella,8,Design,In Progress,Low
+924,Documentation task to handle reference and docs.,2025-12-04,Sophia,8,Documentation,In Progress,Low
+925,Deployment task to handle deploy and environment.,2025-12-05,Noah,8,Deployment,In Progress,Low
+926,Testing task to handle QA and validation.,2025-11-06,Noah,11,Testing,In Progress,Medium
+927,Testing task to handle QA and bug.,2025-12-13,Emma,8,Testing,In Progress,Low
+928,Testing task to handle performance and cases.,2025-10-28,Mia,17,Testing,In Progress,Medium
+929,Documentation task to handle instructions and docs.,2025-11-26,Lucas,8,Documentation,In Progress,Low
+930,Development task to handle logic and database.,2025-11-10,Mia,21,Development,In Progress,Medium
+931,Testing task to handle error and cases.,2025-11-23,Sophia,10,Testing,In Progress,Low
+932,Design task to handle color and design.,2025-12-07,Olivia,10,Design,In Progress,Low
+933,Deployment task to handle CI/CD and production.,2025-10-26,Ava,17,Deployment,In Progress,Medium
+934,Documentation task to handle guide and notes.,2025-11-15,Emma,9,Documentation,In Progress,Low
+935,Testing task to handle bug and performance.,2025-11-18,James,9,Testing,In Progress,Low
+936,Deployment task to handle environment and cloud.,2025-11-12,Mia,18,Deployment,In Progress,Medium
+937,Documentation task to handle summary and reference.,2025-11-30,Sophia,5,Documentation,In Progress,Low
+938,Development task to handle feature and API.,2025-11-06,Liam,16,Development,In Progress,Medium
+939,Documentation task to handle instructions and reference.,2025-12-01,James,3,Documentation,In Progress,Low
+940,Testing task to handle test and performance.,2025-11-14,Isabella,18,Testing,In Progress,Medium
+941,Design task to handle mockup and design.,2025-11-24,Lucas,6,Design,In Progress,Low
+942,Testing task to handle error and QA.,2025-11-11,James,16,Testing,In Progress,Medium
+943,Deployment task to handle production and deploy.,2025-11-23,Isabella,8,Deployment,In Progress,Low
+944,Development task to handle API and module.,2025-10-29,Isabella,23,Development,In Progress,Medium
+945,Design task to handle UX and color.,2025-11-13,Isabella,18,Design,In Progress,Medium
+946,Documentation task to handle manual and reference.,2025-12-06,Mia,6,Documentation,Completed,Low
+947,Development task to handle module and feature.,2025-11-11,Isabella,11,Development,In Progress,Medium
+948,Testing task to handle validation and test.,2025-11-08,Olivia,25,Testing,In Progress,Medium
+949,Deployment task to handle server and cloud.,2025-10-25,Mia,28,Deployment,In Progress,High
+950,Design task to handle UX and mockup.,2025-11-27,Olivia,7,Design,Completed,Low
+951,Deployment task to handle production and container.,2025-11-02,Lucas,22,Deployment,In Progress,Medium
+952,Documentation task to handle docs and summary.,2025-11-28,Sophia,5,Documentation,Completed,Low
+953,Testing task to handle validation and test.,2025-11-14,Sophia,23,Testing,In Progress,Medium
+954,Design task to handle design and UX.,2025-11-20,Isabella,9,Design,In Progress,Low
+955,Testing task to handle QA and performance.,2025-11-11,Olivia,12,Testing,In Progress,Medium
+956,Design task to handle color and design.,2025-10-31,James,13,Design,In Progress,Medium
+957,Deployment task to handle deploy and production.,2025-10-27,Liam,23,Deployment,In Progress,Medium
+958,Deployment task to handle environment and server.,2025-11-07,Emma,15,Deployment,In Progress,Medium
+959,Documentation task to handle docs and notes.,2025-11-26,Olivia,7,Documentation,Completed,Low
+960,Development task to handle feature and backend.,2025-10-20,Sophia,40,Development,In Progress,High
+961,Deployment task to handle container and production.,2025-11-07,Noah,13,Deployment,In Progress,Medium
+962,Design task to handle banner and design.,2025-11-02,Noah,17,Design,In Progress,Medium
+963,Documentation task to handle manual and docs.,2025-11-18,Emma,6,Documentation,In Progress,Low
+964,Design task to handle UX and UI.,2025-11-13,Liam,11,Design,In Progress,Medium
+965,Documentation task to handle manual and summary.,2025-11-28,Ava,9,Documentation,In Progress,Low
+966,Deployment task to handle CI/CD and production.,2025-10-27,Mia,23,Deployment,In Progress,Medium
+967,Testing task to handle QA and cases.,2025-11-14,Isabella,9,Testing,In Progress,Low
+968,Deployment task to handle container and CI/CD.,2025-10-24,Liam,28,Deployment,Pending,High
+969,Development task to handle feature and module.,2025-10-23,Emma,31,Development,In Progress,High
+970,Documentation task to handle reference and manual.,2025-11-25,Emma,2,Documentation,In Progress,Low
+971,Deployment task to handle deploy and environment.,2025-11-10,Sophia,12,Deployment,In Progress,Medium
+972,Design task to handle layout and banner.,2025-12-05,Mia,6,Design,In Progress,Low
+973,Deployment task to handle server and production.,2025-10-29,Liam,20,Deployment,In Progress,Medium
+974,Development task to handle logic and function.,2025-10-24,Sophia,37,Development,In Progress,High
+975,Development task to handle function and feature.,2025-10-31,Olivia,16,Development,In Progress,Medium
+976,Design task to handle design and UX.,2025-11-04,Isabella,19,Design,In Progress,Medium
+977,Design task to handle UX and banner.,2025-11-05,Emma,19,Design,In Progress,Medium
+978,Design task to handle UI and mockup.,2025-11-14,Mia,12,Design,In Progress,Medium
+979,Testing task to handle QA and error.,2025-11-02,Mia,13,Testing,In Progress,Medium
+980,Development task to handle logic and function.,2025-10-23,Ava,38,Development,In Progress,High
+981,Development task to handle module and feature.,2025-10-31,Isabella,18,Development,In Progress,Medium
+982,Documentation task to handle instructions and notes.,2025-11-22,Lucas,6,Documentation,In Progress,Low
+983,Deployment task to handle environment and server.,2025-11-03,James,14,Deployment,In Progress,Medium
+984,Development task to handle logic and API.,2025-10-22,Mia,33,Development,Pending,High
+985,Testing task to handle performance and QA.,2025-10-31,James,18,Testing,In Progress,Medium
+986,Design task to handle mockup and color.,2025-11-11,Noah,15,Design,In Progress,Medium
+987,Development task to handle API and feature.,2025-10-18,Mia,33,Development,Pending,High
+988,Development task to handle database and backend.,2025-10-24,Lucas,36,Development,Pending,High
+989,Documentation task to handle instructions and summary.,2025-12-06,Isabella,6,Documentation,Completed,Low
+990,Design task to handle design and color.,2025-11-15,Olivia,6,Design,Completed,Low
+991,Testing task to handle test and QA.,2025-11-02,Lucas,23,Testing,In Progress,Medium
+992,Deployment task to handle server and environment.,2025-11-06,Ava,17,Deployment,In Progress,Medium
+993,Development task to handle logic and backend.,2025-10-29,Isabella,11,Development,In Progress,Medium
+994,Design task to handle UX and banner.,2025-10-26,Sophia,16,Design,In Progress,Medium
+995,Documentation task to handle docs and reference.,2025-11-26,James,5,Documentation,In Progress,Low
+996,Documentation task to handle notes and manual.,2025-12-11,Emma,8,Documentation,In Progress,Low
+997,Testing task to handle bug and performance.,2025-10-28,Emma,24,Testing,In Progress,Medium
+998,Deployment task to handle container and cloud.,2025-10-31,Liam,20,Deployment,In Progress,Medium
+999,Documentation task to handle docs and notes.,2025-12-01,Isabella,4,Documentation,In Progress,Low
+1000,Design task to handle design and UI.,2025-10-27,Noah,11,Design,In Progress,Medium
+1001,Development task to handle API and logic.,2025-10-19,Noah,34,Development,Pending,High
+1002,Deployment task to handle deploy and environment.,2025-11-04,Sophia,24,Deployment,In Progress,Medium
+1003,Design task to handle banner and color.,2025-12-10,Sophia,8,Design,In Progress,Low
+1004,Design task to handle UX and UI.,2025-11-06,Sophia,17,Design,In Progress,Medium
+1005,Deployment task to handle container and server.,2025-10-19,Isabella,29,Deployment,In Progress,High
+1006,Development task to handle API and backend.,2025-11-03,Olivia,23,Development,In Progress,Medium
+1007,Documentation task to handle summary and reference.,2025-11-17,Isabella,5,Documentation,In Progress,Low
+1008,Design task to handle mockup and color.,2025-11-27,Ava,8,Design,In Progress,Low
+1009,Testing task to handle cases and error.,2025-11-08,Lucas,18,Testing,In Progress,Medium
+1010,Deployment task to handle CI/CD and cloud.,2025-10-22,Liam,29,Deployment,Pending,High
+1011,Development task to handle logic and database.,2025-10-29,Emma,20,Development,In Progress,Medium
+1012,Design task to handle banner and color.,2025-11-14,Mia,5,Design,In Progress,Low
+1013,Testing task to handle cases and performance.,2025-10-31,Olivia,19,Testing,In Progress,Medium
+1014,Testing task to handle bug and QA.,2025-10-29,Noah,19,Testing,In Progress,Medium
+1015,Documentation task to handle notes and manual.,2025-11-28,James,6,Documentation,Completed,Low
+1016,Development task to handle backend and function.,2025-10-22,Emma,31,Development,In Progress,High
+1017,Design task to handle UI and banner.,2025-10-31,Liam,18,Design,In Progress,Medium
+1018,Deployment task to handle production and environment.,2025-10-19,Liam,27,Deployment,In Progress,High
+1019,Design task to handle design and banner.,2025-11-08,Isabella,13,Design,In Progress,Medium
+1020,Development task to handle database and backend.,2025-11-06,Mia,14,Development,In Progress,Medium
+1021,Documentation task to handle manual and notes.,2025-12-11,Olivia,4,Documentation,Completed,Low
+1022,Testing task to handle validation and bug.,2025-11-25,Liam,8,Testing,In Progress,Low
+1023,Documentation task to handle guide and manual.,2025-11-26,Ava,2,Documentation,In Progress,Low
+1024,Documentation task to handle docs and summary.,2025-11-28,Emma,5,Documentation,In Progress,Low
+1025,Testing task to handle error and cases.,2025-10-31,Emma,12,Testing,In Progress,Medium
+1026,Documentation task to handle instructions and guide.,2025-11-30,Noah,4,Documentation,In Progress,Low
+1027,Testing task to handle performance and QA.,2025-10-30,Emma,24,Testing,In Progress,Medium
+1028,Deployment task to handle server and cloud.,2025-11-08,Liam,17,Deployment,In Progress,Medium
+1029,Deployment task to handle container and production.,2025-11-12,Ava,16,Deployment,In Progress,Medium
+1030,Development task to handle database and feature.,2025-10-31,Liam,22,Development,In Progress,Medium
+1031,Development task to handle backend and function.,2025-10-19,Ava,28,Development,In Progress,High
+1032,Deployment task to handle production and cloud.,2025-10-28,Olivia,12,Deployment,In Progress,Medium
+1033,Documentation task to handle reference and guide.,2025-12-06,Lucas,3,Documentation,In Progress,Low
+1034,Design task to handle UX and UI.,2025-11-12,James,20,Design,In Progress,Medium
+1035,Testing task to handle cases and bug.,2025-10-28,Olivia,17,Testing,In Progress,Medium
+1036,Design task to handle UI and UX.,2025-11-30,James,8,Design,In Progress,Low
+1037,Development task to handle API and feature.,2025-10-22,Mia,40,Development,In Progress,High
+1038,Deployment task to handle production and cloud.,2025-11-15,Sophia,10,Deployment,In Progress,Low
+1039,Documentation task to handle docs and notes.,2025-12-04,Emma,6,Documentation,In Progress,Low
+1040,Deployment task to handle production and cloud.,2025-10-21,Emma,29,Deployment,In Progress,High
+1041,Documentation task to handle docs and instructions.,2025-11-21,Ava,9,Documentation,In Progress,Low
+1042,Deployment task to handle deploy and server.,2025-11-14,Liam,16,Deployment,In Progress,Medium
+1043,Deployment task to handle production and CI/CD.,2025-10-25,Lucas,12,Deployment,In Progress,Medium
+1044,Deployment task to handle production and deploy.,2025-11-11,Lucas,24,Deployment,In Progress,Medium
+1045,Documentation task to handle reference and docs.,2025-11-29,Sophia,4,Documentation,In Progress,Low
+1046,Design task to handle layout and UI.,2025-12-03,Noah,5,Design,In Progress,Low
+1047,Testing task to handle bug and validation.,2025-12-06,Emma,9,Testing,In Progress,Low
+1048,Development task to handle logic and feature.,2025-11-14,Mia,19,Development,In Progress,Medium
+1049,Deployment task to handle CI/CD and container.,2025-11-01,Emma,14,Deployment,In Progress,Medium
+1050,Deployment task to handle production and container.,2025-10-25,Lucas,21,Deployment,In Progress,Medium
+1051,Deployment task to handle cloud and server.,2025-11-18,James,8,Deployment,In Progress,Low
+1052,Documentation task to handle docs and summary.,2025-11-26,Mia,6,Documentation,Completed,Low
+1053,Documentation task to handle docs and instructions.,2025-11-27,Sophia,4,Documentation,Completed,Low
+1054,Testing task to handle bug and QA.,2025-11-12,Isabella,11,Testing,In Progress,Medium
+1055,Documentation task to handle docs and reference.,2025-12-10,Emma,5,Documentation,Completed,Low
+1056,Deployment task to handle cloud and CI/CD.,2025-10-27,Liam,14,Deployment,In Progress,Medium
+1057,Design task to handle UI and mockup.,2025-11-04,Lucas,11,Design,In Progress,Medium
+1058,Deployment task to handle container and environment.,2025-10-20,Sophia,28,Deployment,In Progress,High
+1059,Documentation task to handle instructions and notes.,2025-11-30,Lucas,2,Documentation,Completed,Low
+1060,Design task to handle mockup and design.,2025-11-03,Sophia,17,Design,In Progress,Medium
+1061,Documentation task to handle summary and notes.,2025-12-01,Mia,4,Documentation,Completed,Low
+1062,Deployment task to handle deploy and environment.,2025-10-26,Isabella,12,Deployment,In Progress,Medium
+1063,Testing task to handle error and validation.,2025-11-10,Sophia,23,Testing,In Progress,Medium
+1064,Development task to handle logic and API.,2025-11-10,Lucas,11,Development,In Progress,Medium
+1065,Design task to handle banner and mockup.,2025-11-08,Lucas,13,Design,In Progress,Medium
+1066,Testing task to handle error and cases.,2025-11-04,Mia,23,Testing,In Progress,Medium
+1067,Design task to handle UX and layout.,2025-11-29,Mia,9,Design,In Progress,Low
+1068,Development task to handle feature and database.,2025-10-27,Sophia,23,Development,In Progress,Medium
+1069,Deployment task to handle CI/CD and production.,2025-10-28,Sophia,25,Deployment,In Progress,Medium
+1070,Development task to handle logic and module.,2025-10-25,Ava,36,Development,In Progress,High
+1071,Documentation task to handle summary and reference.,2025-11-22,Lucas,8,Documentation,In Progress,Low
+1072,Development task to handle database and backend.,2025-10-30,James,25,Development,In Progress,Medium
+1073,Documentation task to handle manual and instructions.,2025-12-12,Emma,7,Documentation,Completed,Low
+1074,Development task to handle logic and backend.,2025-11-07,Lucas,14,Development,In Progress,Medium
+1075,Design task to handle mockup and layout.,2025-10-28,Sophia,20,Design,In Progress,Medium
+1076,Testing task to handle test and performance.,2025-11-12,Sophia,17,Testing,In Progress,Medium
+1077,Development task to handle backend and logic.,2025-11-04,Liam,20,Development,In Progress,Medium
+1078,Development task to handle feature and module.,2025-10-21,Emma,32,Development,Pending,High
+1079,Deployment task to handle cloud and server.,2025-10-27,Liam,15,Deployment,In Progress,Medium
+1080,Development task to handle API and module.,2025-10-20,Ava,29,Development,In Progress,High
+1081,Deployment task to handle deploy and cloud.,2025-11-12,Emma,25,Deployment,In Progress,Medium
+1082,Design task to handle UX and mockup.,2025-11-05,James,20,Design,In Progress,Medium
+1083,Testing task to handle cases and bug.,2025-11-20,Olivia,10,Testing,In Progress,Low
+1084,Documentation task to handle instructions and summary.,2025-11-18,James,4,Documentation,In Progress,Low
+1085,Testing task to handle error and QA.,2025-10-27,Mia,17,Testing,In Progress,Medium
+1086,Design task to handle UI and color.,2025-11-06,Mia,20,Design,In Progress,Medium
+1087,Design task to handle design and UI.,2025-11-06,Olivia,15,Design,In Progress,Medium
+1088,Design task to handle UX and color.,2025-11-01,James,12,Design,In Progress,Medium
+1089,Development task to handle backend and module.,2025-11-03,Mia,16,Development,In Progress,Medium
+1090,Design task to handle color and UI.,2025-11-05,Emma,16,Design,In Progress,Medium
+1091,Design task to handle banner and UX.,2025-10-27,Lucas,18,Design,In Progress,Medium
+1092,Testing task to handle validation and test.,2025-11-08,Noah,19,Testing,In Progress,Medium
+1093,Design task to handle layout and mockup.,2025-11-26,Noah,8,Design,In Progress,Low
+1094,Design task to handle UX and banner.,2025-11-08,Liam,11,Design,In Progress,Medium
+1095,Development task to handle function and API.,2025-10-24,Liam,36,Development,Pending,High
+1096,Documentation task to handle instructions and manual.,2025-11-14,Lucas,2,Documentation,Completed,Low
+1097,Testing task to handle performance and bug.,2025-11-02,Liam,12,Testing,In Progress,Medium
+1098,Design task to handle design and color.,2025-11-06,Isabella,12,Design,In Progress,Medium
+1099,Testing task to handle error and validation.,2025-11-08,Emma,20,Testing,In Progress,Medium
+1100,Deployment task to handle CI/CD and cloud.,2025-10-24,Isabella,30,Deployment,In Progress,High
+1101,Design task to handle mockup and color.,2025-11-25,Ava,7,Design,Completed,Low
+1102,Deployment task to handle server and CI/CD.,2025-10-28,Olivia,21,Deployment,In Progress,Medium
+1103,Design task to handle layout and color.,2025-12-11,Lucas,10,Design,In Progress,Low
+1104,Design task to handle mockup and design.,2025-11-11,Mia,18,Design,In Progress,Medium
+1105,Documentation task to handle notes and guide.,2025-12-11,Olivia,8,Documentation,In Progress,Low
+1106,Development task to handle module and API.,2025-10-26,James,14,Development,In Progress,Medium
+1107,Development task to handle backend and logic.,2025-11-04,Isabella,22,Development,In Progress,Medium
+1108,Documentation task to handle reference and docs.,2025-12-12,Emma,7,Documentation,In Progress,Low
+1109,Design task to handle banner and UI.,2025-11-06,James,19,Design,In Progress,Medium
+1110,Design task to handle UI and UX.,2025-10-26,Noah,15,Design,In Progress,Medium
+1111,Design task to handle UI and design.,2025-11-09,Olivia,18,Design,In Progress,Medium
+1112,Development task to handle backend and logic.,2025-10-22,Mia,28,Development,In Progress,High
+1113,Deployment task to handle production and container.,2025-11-10,Olivia,18,Deployment,In Progress,Medium
+1114,Testing task to handle error and QA.,2025-11-03,Mia,17,Testing,In Progress,Medium
+1115,Development task to handle module and backend.,2025-10-18,Mia,35,Development,Pending,High
+1116,Documentation task to handle summary and reference.,2025-12-04,Mia,5,Documentation,In Progress,Low
+1117,Development task to handle API and module.,2025-11-13,Olivia,21,Development,In Progress,Medium
+1118,Testing task to handle performance and cases.,2025-11-14,Sophia,20,Testing,In Progress,Medium
+1119,Documentation task to handle guide and instructions.,2025-12-02,Olivia,5,Documentation,In Progress,Low
+1120,Deployment task to handle server and cloud.,2025-11-02,Olivia,23,Deployment,In Progress,Medium
+1121,Deployment task to handle container and production.,2025-10-24,Mia,28,Deployment,Pending,High
+1122,Development task to handle logic and backend.,2025-10-30,Liam,24,Development,In Progress,Medium
+1123,Deployment task to handle production and CI/CD.,2025-10-22,Mia,26,Deployment,In Progress,High
+1124,Development task to handle module and database.,2025-10-21,Emma,36,Development,Pending,High
+1125,Documentation task to handle manual and guide.,2025-11-26,Noah,5,Documentation,In Progress,Low
+1126,Development task to handle API and function.,2025-11-24,Noah,10,Development,In Progress,Low
+1127,Development task to handle function and logic.,2025-10-25,James,34,Development,In Progress,High
+1128,Design task to handle layout and UX.,2025-11-07,Ava,15,Design,In Progress,Medium
+1129,Development task to handle feature and function.,2025-11-04,Emma,14,Development,In Progress,Medium
+1130,Deployment task to handle deploy and CI/CD.,2025-10-23,Mia,30,Deployment,In Progress,High
+1131,Documentation task to handle manual and guide.,2025-11-25,Noah,9,Documentation,In Progress,Low
+1132,Deployment task to handle CI/CD and deploy.,2025-11-05,Lucas,24,Deployment,In Progress,Medium
+1133,Design task to handle UX and UI.,2025-11-05,Emma,20,Design,In Progress,Medium
+1134,Design task to handle color and UX.,2025-12-02,Olivia,10,Design,In Progress,Low
+1135,Documentation task to handle docs and instructions.,2025-12-02,Isabella,4,Documentation,In Progress,Low
+1136,Testing task to handle performance and bug.,2025-11-13,Ava,12,Testing,In Progress,Medium
+1137,Deployment task to handle CI/CD and server.,2025-10-24,Ava,27,Deployment,Pending,High
+1138,Development task to handle backend and function.,2025-10-22,Mia,36,Development,Pending,High
+1139,Design task to handle UI and color.,2025-10-26,Liam,14,Design,In Progress,Medium
+1140,Documentation task to handle docs and notes.,2025-11-19,Lucas,9,Documentation,In Progress,Low
+1141,Testing task to handle error and validation.,2025-11-09,Lucas,24,Testing,In Progress,Medium
+1142,Design task to handle mockup and color.,2025-11-06,Mia,14,Design,In Progress,Medium
+1143,Deployment task to handle environment and server.,2025-10-25,Ava,23,Deployment,In Progress,Medium
+1144,Design task to handle layout and UI.,2025-11-13,Sophia,17,Design,In Progress,Medium
+1145,Documentation task to handle summary and manual.,2025-11-29,Ava,10,Documentation,In Progress,Low
+1146,Testing task to handle QA and error.,2025-12-13,Sophia,10,Testing,In Progress,Low
+1147,Deployment task to handle container and CI/CD.,2025-10-19,Sophia,29,Deployment,Pending,High
+1148,Documentation task to handle manual and reference.,2025-11-30,Ava,7,Documentation,Completed,Low
+1149,Design task to handle color and mockup.,2025-11-17,Liam,10,Design,In Progress,Low
+1150,Deployment task to handle production and CI/CD.,2025-10-31,Emma,21,Deployment,In Progress,Medium
+1151,Documentation task to handle summary and instructions.,2025-11-17,Sophia,8,Documentation,In Progress,Low
+1152,Development task to handle feature and database.,2025-10-19,Emma,34,Development,Pending,High
+1153,Testing task to handle cases and validation.,2025-11-17,Liam,8,Testing,In Progress,Low
+1154,Development task to handle function and feature.,2025-11-04,Olivia,17,Development,In Progress,Medium
+1155,Development task to handle backend and feature.,2025-11-03,Noah,20,Development,In Progress,Medium
+1156,Testing task to handle validation and error.,2025-10-26,Emma,20,Testing,In Progress,Medium
+1157,Development task to handle API and backend.,2025-11-17,Noah,10,Development,In Progress,Low
+1158,Deployment task to handle production and container.,2025-11-06,Olivia,17,Deployment,In Progress,Medium
+1159,Development task to handle database and logic.,2025-10-20,Sophia,38,Development,In Progress,High
+1160,Deployment task to handle environment and deploy.,2025-10-19,Isabella,29,Deployment,In Progress,High
+1161,Development task to handle logic and module.,2025-10-20,Mia,38,Development,In Progress,High
+1162,Testing task to handle QA and error.,2025-10-29,Ava,14,Testing,In Progress,Medium
+1163,Design task to handle layout and banner.,2025-11-04,Olivia,14,Design,In Progress,Medium
+1164,Testing task to handle bug and QA.,2025-11-05,Mia,22,Testing,In Progress,Medium
+1165,Testing task to handle cases and QA.,2025-10-30,Liam,14,Testing,In Progress,Medium
+1166,Deployment task to handle server and CI/CD.,2025-10-28,Mia,19,Deployment,In Progress,Medium
+1167,Development task to handle function and module.,2025-11-12,Ava,18,Development,In Progress,Medium
+1168,Deployment task to handle production and environment.,2025-10-27,Ava,14,Deployment,In Progress,Medium
+1169,Deployment task to handle cloud and CI/CD.,2025-11-09,James,19,Deployment,In Progress,Medium
+1170,Development task to handle feature and function.,2025-10-19,James,28,Development,Pending,High
+1171,Design task to handle UI and color.,2025-11-25,James,9,Design,In Progress,Low
+1172,Testing task to handle error and performance.,2025-10-29,Noah,17,Testing,In Progress,Medium
+1173,Design task to handle layout and design.,2025-11-03,Lucas,17,Design,In Progress,Medium
+1174,Testing task to handle QA and performance.,2025-11-03,James,16,Testing,In Progress,Medium
+1175,Deployment task to handle deploy and environment.,2025-10-18,Emma,26,Deployment,In Progress,High
+1176,Development task to handle feature and API.,2025-10-22,Lucas,26,Development,Pending,High
+1177,Documentation task to handle reference and notes.,2025-11-30,James,4,Documentation,In Progress,Low
+1178,Development task to handle logic and feature.,2025-10-19,Lucas,28,Development,Pending,High
+1179,Testing task to handle cases and error.,2025-11-03,Mia,16,Testing,In Progress,Medium
+1180,Testing task to handle bug and cases.,2025-11-12,Ava,25,Testing,In Progress,Medium
+1181,Design task to handle mockup and color.,2025-10-26,Emma,12,Design,In Progress,Medium
+1182,Design task to handle color and design.,2025-10-31,Sophia,11,Design,In Progress,Medium
+1183,Documentation task to handle docs and reference.,2025-11-27,Emma,8,Documentation,In Progress,Low
+1184,Development task to handle module and function.,2025-10-20,Olivia,27,Development,Pending,High
+1185,Documentation task to handle instructions and reference.,2025-11-26,Noah,7,Documentation,Completed,Low
+1186,Documentation task to handle guide and docs.,2025-11-15,Isabella,7,Documentation,Completed,Low
+1187,Testing task to handle cases and QA.,2025-11-12,Noah,23,Testing,In Progress,Medium
+1188,Development task to handle module and feature.,2025-10-25,Sophia,28,Development,Pending,High
+1189,Development task to handle API and backend.,2025-10-22,Ava,32,Development,In Progress,High
+1190,Development task to handle database and feature.,2025-11-13,Ava,13,Development,In Progress,Medium
+1191,Design task to handle banner and layout.,2025-11-11,Olivia,18,Design,In Progress,Medium
+1192,Development task to handle feature and module.,2025-10-20,Sophia,32,Development,In Progress,High
+1193,Design task to handle UI and UX.,2025-12-03,Mia,7,Design,Completed,Low
+1194,Design task to handle UI and layout.,2025-11-07,Ava,20,Design,In Progress,Medium
+1195,Deployment task to handle environment and CI/CD.,2025-10-30,Mia,19,Deployment,In Progress,Medium
+1196,Design task to handle UI and mockup.,2025-12-12,Lucas,6,Design,In Progress,Low
+1197,Testing task to handle validation and cases.,2025-11-22,James,10,Testing,In Progress,Low
+1198,Design task to handle layout and UX.,2025-11-28,Emma,10,Design,In Progress,Low
+1199,Documentation task to handle manual and instructions.,2025-12-14,Lucas,6,Documentation,In Progress,Low
+1200,Design task to handle UI and UX.,2025-12-03,Sophia,9,Design,In Progress,Low
+1201,Documentation task to handle notes and manual.,2025-11-27,Liam,5,Documentation,Completed,Low
+1202,Testing task to handle performance and test.,2025-11-06,Olivia,20,Testing,In Progress,Medium
+1203,Development task to handle logic and API.,2025-10-21,Noah,39,Development,Pending,High
+1204,Testing task to handle validation and error.,2025-10-29,Lucas,22,Testing,In Progress,Medium
+1205,Design task to handle design and color.,2025-12-06,Ava,6,Design,In Progress,Low
+1206,Development task to handle function and database.,2025-10-19,Noah,36,Development,In Progress,High
+1207,Development task to handle logic and database.,2025-10-30,Mia,25,Development,In Progress,Medium
+1208,Testing task to handle validation and cases.,2025-11-12,Isabella,24,Testing,In Progress,Medium
+1209,Testing task to handle validation and QA.,2025-10-29,James,14,Testing,In Progress,Medium
+1210,Testing task to handle test and validation.,2025-11-04,Mia,15,Testing,In Progress,Medium
+1211,Deployment task to handle CI/CD and cloud.,2025-10-19,Ava,26,Deployment,In Progress,High
+1212,Documentation task to handle summary and reference.,2025-12-13,Isabella,4,Documentation,In Progress,Low
+1213,Development task to handle module and backend.,2025-10-18,Liam,33,Development,In Progress,High
+1214,Design task to handle color and UX.,2025-11-11,James,14,Design,In Progress,Medium
+1215,Development task to handle feature and function.,2025-11-10,Sophia,17,Development,In Progress,Medium
+1216,Design task to handle UX and color.,2025-10-27,Olivia,20,Design,In Progress,Medium
+1217,Design task to handle UX and banner.,2025-10-28,Sophia,15,Design,In Progress,Medium
+1218,Deployment task to handle production and cloud.,2025-11-11,Isabella,19,Deployment,In Progress,Medium
+1219,Design task to handle design and layout.,2025-11-05,Lucas,14,Design,In Progress,Medium
+1220,Documentation task to handle summary and instructions.,2025-12-14,Sophia,9,Documentation,In Progress,Low
+1221,Design task to handle UX and design.,2025-11-01,Mia,20,Design,In Progress,Medium
+1222,Deployment task to handle server and environment.,2025-11-11,Mia,20,Deployment,In Progress,Medium
+1223,Testing task to handle error and bug.,2025-11-12,Isabella,18,Testing,In Progress,Medium
+1224,Deployment task to handle environment and production.,2025-10-18,James,27,Deployment,In Progress,High
+1225,Development task to handle database and function.,2025-11-09,Sophia,12,Development,In Progress,Medium
+1226,Deployment task to handle cloud and container.,2025-11-07,James,16,Deployment,In Progress,Medium
+1227,Deployment task to handle container and environment.,2025-10-31,Isabella,22,Deployment,In Progress,Medium
+1228,Deployment task to handle production and environment.,2025-11-14,Emma,19,Deployment,In Progress,Medium
+1229,Development task to handle function and API.,2025-10-25,Olivia,28,Development,Pending,High
+1230,Testing task to handle cases and test.,2025-11-09,James,25,Testing,In Progress,Medium
+1231,Design task to handle color and design.,2025-11-07,Emma,14,Design,In Progress,Medium
+1232,Testing task to handle cases and error.,2025-11-01,Olivia,23,Testing,In Progress,Medium
+1233,Testing task to handle bug and validation.,2025-10-26,Ava,25,Testing,In Progress,Medium
+1234,Testing task to handle validation and performance.,2025-11-01,James,12,Testing,In Progress,Medium
+1235,Documentation task to handle instructions and summary.,2025-11-30,James,7,Documentation,In Progress,Low
+1236,Testing task to handle performance and validation.,2025-11-18,Liam,9,Testing,In Progress,Low
+1237,Testing task to handle bug and error.,2025-11-27,Lucas,10,Testing,In Progress,Low
+1238,Deployment task to handle container and production.,2025-10-29,Emma,17,Deployment,In Progress,Medium
+1239,Development task to handle function and API.,2025-10-22,Sophia,28,Development,In Progress,High
+1240,Testing task to handle error and bug.,2025-11-06,Mia,15,Testing,In Progress,Medium
+1241,Testing task to handle cases and test.,2025-11-12,Ava,16,Testing,In Progress,Medium
+1242,Deployment task to handle deploy and environment.,2025-10-25,Lucas,13,Deployment,In Progress,Medium
+1243,Design task to handle UX and UI.,2025-12-03,Isabella,5,Design,In Progress,Low
+1244,Design task to handle UI and UX.,2025-10-28,Liam,15,Design,In Progress,Medium
+1245,Development task to handle feature and database.,2025-11-04,Noah,23,Development,In Progress,Medium
+1246,Design task to handle UI and color.,2025-11-27,Isabella,7,Design,Completed,Low
+1247,Deployment task to handle container and CI/CD.,2025-11-24,Olivia,9,Deployment,In Progress,Low
+1248,Development task to handle database and backend.,2025-10-25,Isabella,31,Development,Pending,High
+1249,Deployment task to handle container and cloud.,2025-12-03,Ava,8,Deployment,In Progress,Low
+1250,Documentation task to handle notes and summary.,2025-12-12,Liam,5,Documentation,In Progress,Low
+1251,Design task to handle layout and design.,2025-11-01,Isabella,20,Design,In Progress,Medium
+1252,Testing task to handle QA and performance.,2025-11-15,Ava,9,Testing,In Progress,Low
+1253,Documentation task to handle reference and docs.,2025-11-30,Emma,3,Documentation,In Progress,Low
+1254,Testing task to handle bug and test.,2025-10-28,Lucas,24,Testing,In Progress,Medium
+1255,Development task to handle database and backend.,2025-10-19,Ava,40,Development,Pending,High
+1256,Documentation task to handle instructions and notes.,2025-11-18,Sophia,6,Documentation,In Progress,Low
+1257,Development task to handle API and module.,2025-10-18,Isabella,29,Development,In Progress,High
+1258,Documentation task to handle docs and guide.,2025-11-23,Olivia,2,Documentation,Completed,Low
+1259,Testing task to handle cases and bug.,2025-10-26,Ava,21,Testing,In Progress,Medium
+1260,Design task to handle UX and banner.,2025-11-22,Ava,9,Design,In Progress,Low
+1261,Development task to handle logic and feature.,2025-10-25,Lucas,27,Development,In Progress,High
+1262,Deployment task to handle server and cloud.,2025-11-30,Sophia,9,Deployment,In Progress,Low
+1263,Development task to handle function and module.,2025-11-11,Noah,15,Development,In Progress,Medium
+1264,Design task to handle mockup and layout.,2025-12-02,Lucas,9,Design,In Progress,Low
+1265,Deployment task to handle cloud and server.,2025-11-02,Emma,13,Deployment,In Progress,Medium
+1266,Design task to handle design and layout.,2025-11-05,Ava,17,Design,In Progress,Medium
+1267,Development task to handle feature and module.,2025-11-02,Olivia,20,Development,In Progress,Medium
+1268,Testing task to handle error and test.,2025-10-25,Olivia,21,Testing,In Progress,Medium
+1269,Development task to handle backend and module.,2025-10-18,Olivia,32,Development,Pending,High
+1270,Development task to handle API and logic.,2025-11-18,Liam,10,Development,In Progress,Low
+1271,Deployment task to handle cloud and environment.,2025-11-12,Isabella,25,Deployment,In Progress,Medium
+1272,Design task to handle UI and design.,2025-11-30,Emma,10,Design,In Progress,Low
+1273,Testing task to handle bug and validation.,2025-11-24,Lucas,9,Testing,In Progress,Low
+1274,Deployment task to handle container and deploy.,2025-11-03,James,18,Deployment,In Progress,Medium
+1275,Development task to handle database and logic.,2025-10-27,Emma,12,Development,In Progress,Medium
+1276,Development task to handle backend and database.,2025-11-14,Sophia,15,Development,In Progress,Medium
+1277,Deployment task to handle container and environment.,2025-10-28,Mia,11,Deployment,In Progress,Medium
+1278,Design task to handle UX and color.,2025-11-13,Emma,12,Design,In Progress,Medium
+1279,Development task to handle API and backend.,2025-11-02,James,21,Development,In Progress,Medium
+1280,Deployment task to handle environment and production.,2025-10-20,Olivia,28,Deployment,Pending,High
+1281,Testing task to handle test and cases.,2025-10-30,Isabella,25,Testing,In Progress,Medium
+1282,Deployment task to handle environment and server.,2025-11-09,Noah,19,Deployment,In Progress,Medium
+1283,Deployment task to handle server and cloud.,2025-11-02,Mia,12,Deployment,In Progress,Medium
+1284,Deployment task to handle cloud and environment.,2025-10-23,Sophia,26,Deployment,In Progress,High
+1285,Testing task to handle bug and test.,2025-11-01,Olivia,24,Testing,In Progress,Medium
+1286,Testing task to handle bug and test.,2025-11-07,Sophia,12,Testing,In Progress,Medium
+1287,Documentation task to handle notes and instructions.,2025-11-21,Olivia,2,Documentation,In Progress,Low
+1288,Design task to handle mockup and banner.,2025-11-17,Noah,8,Design,In Progress,Low
+1289,Development task to handle feature and logic.,2025-11-03,Liam,23,Development,In Progress,Medium
+1290,Development task to handle module and logic.,2025-10-20,Liam,30,Development,Pending,High
+1291,Documentation task to handle summary and notes.,2025-11-29,Ava,6,Documentation,Completed,Low
+1292,Deployment task to handle production and deploy.,2025-10-28,Noah,22,Deployment,In Progress,Medium
+1293,Design task to handle design and UI.,2025-10-31,Ava,20,Design,In Progress,Medium
+1294,Documentation task to handle reference and notes.,2025-11-21,Ava,3,Documentation,In Progress,Low
+1295,Development task to handle backend and logic.,2025-10-27,Emma,21,Development,In Progress,Medium
+1296,Design task to handle layout and color.,2025-10-25,Olivia,20,Design,In Progress,Medium
+1297,Design task to handle UI and layout.,2025-11-04,Ava,13,Design,In Progress,Medium
+1298,Development task to handle function and database.,2025-11-01,Lucas,25,Development,In Progress,Medium
+1299,Documentation task to handle docs and guide.,2025-11-27,Isabella,2,Documentation,Completed,Low
+1300,Documentation task to handle notes and instructions.,2025-11-23,Sophia,3,Documentation,In Progress,Low
+1301,Documentation task to handle manual and instructions.,2025-11-19,Sophia,4,Documentation,In Progress,Low
+1302,Design task to handle color and UX.,2025-10-25,Isabella,20,Design,In Progress,Medium
+1303,Documentation task to handle notes and summary.,2025-12-08,Emma,10,Documentation,In Progress,Low
+1304,Development task to handle database and backend.,2025-10-23,Noah,31,Development,Pending,High
+1305,Development task to handle feature and module.,2025-10-23,Ava,32,Development,In Progress,High
+1306,Testing task to handle validation and bug.,2025-11-24,Liam,8,Testing,In Progress,Low
+1307,Design task to handle UI and color.,2025-12-10,Noah,7,Design,Completed,Low
+1308,Documentation task to handle instructions and manual.,2025-11-20,Mia,4,Documentation,Completed,Low
+1309,Testing task to handle QA and error.,2025-11-05,Mia,24,Testing,In Progress,Medium
+1310,Deployment task to handle environment and server.,2025-11-12,Emma,21,Deployment,In Progress,Medium
+1311,Development task to handle function and backend.,2025-11-06,Lucas,12,Development,In Progress,Medium
+1312,Development task to handle logic and module.,2025-10-19,Sophia,28,Development,Pending,High
+1313,Deployment task to handle production and environment.,2025-10-26,Olivia,13,Deployment,In Progress,Medium
+1314,Testing task to handle QA and test.,2025-11-08,Olivia,15,Testing,In Progress,Medium
+1315,Documentation task to handle guide and manual.,2025-12-05,Liam,9,Documentation,In Progress,Low
+1316,Development task to handle function and backend.,2025-10-29,Liam,23,Development,In Progress,Medium
+1317,Documentation task to handle docs and reference.,2025-12-04,Isabella,5,Documentation,In Progress,Low
+1318,Documentation task to handle docs and instructions.,2025-12-03,Mia,4,Documentation,In Progress,Low
+1319,Documentation task to handle summary and reference.,2025-12-06,Olivia,10,Documentation,In Progress,Low
+1320,Deployment task to handle container and deploy.,2025-11-12,Lucas,13,Deployment,In Progress,Medium
+1321,Documentation task to handle instructions and summary.,2025-11-19,James,8,Documentation,In Progress,Low
+1322,Design task to handle banner and layout.,2025-12-04,Olivia,6,Design,In Progress,Low
+1323,Deployment task to handle production and deploy.,2025-10-25,Ava,30,Deployment,Pending,High
+1324,Documentation task to handle manual and notes.,2025-11-25,Emma,7,Documentation,In Progress,Low
+1325,Design task to handle UI and UX.,2025-11-15,Noah,8,Design,In Progress,Low
+1326,Documentation task to handle docs and guide.,2025-12-01,Liam,8,Documentation,In Progress,Low
+1327,Documentation task to handle notes and instructions.,2025-11-17,Ava,2,Documentation,In Progress,Low
+1328,Testing task to handle validation and performance.,2025-11-01,Ava,16,Testing,In Progress,Medium
+1329,Testing task to handle test and performance.,2025-11-08,Isabella,13,Testing,In Progress,Medium
+1330,Documentation task to handle guide and instructions.,2025-12-04,Isabella,3,Documentation,In Progress,Low
+1331,Testing task to handle validation and error.,2025-11-02,Olivia,15,Testing,In Progress,Medium
+1332,Design task to handle UI and banner.,2025-12-02,Sophia,7,Design,Completed,Low
+1333,Documentation task to handle instructions and notes.,2025-11-29,Sophia,3,Documentation,Completed,Low
+1334,Deployment task to handle CI/CD and deploy.,2025-11-09,Olivia,21,Deployment,In Progress,Medium
+1335,Testing task to handle performance and bug.,2025-11-07,Olivia,18,Testing,In Progress,Medium
+1336,Testing task to handle cases and error.,2025-11-12,Lucas,16,Testing,In Progress,Medium
+1337,Design task to handle layout and UI.,2025-12-04,Mia,10,Design,In Progress,Low
+1338,Development task to handle database and API.,2025-10-22,Mia,28,Development,In Progress,High
+1339,Testing task to handle bug and validation.,2025-11-21,Noah,10,Testing,In Progress,Low
+1340,Testing task to handle performance and test.,2025-11-04,Olivia,23,Testing,In Progress,Medium
+1341,Development task to handle backend and feature.,2025-11-11,Lucas,25,Development,In Progress,Medium
+1342,Deployment task to handle production and container.,2025-10-29,Lucas,11,Deployment,In Progress,Medium
+1343,Documentation task to handle instructions and reference.,2025-11-19,Mia,10,Documentation,In Progress,Low
+1344,Development task to handle module and backend.,2025-10-21,Ava,28,Development,In Progress,High
+1345,Deployment task to handle container and environment.,2025-11-14,Liam,24,Deployment,In Progress,Medium
+1346,Documentation task to handle reference and guide.,2025-12-02,James,9,Documentation,In Progress,Low
+1347,Development task to handle database and module.,2025-11-07,Noah,17,Development,In Progress,Medium
+1348,Development task to handle backend and function.,2025-10-19,Olivia,39,Development,In Progress,High
+1349,Testing task to handle error and QA.,2025-11-04,Olivia,15,Testing,In Progress,Medium
+1350,Deployment task to handle cloud and server.,2025-10-30,Mia,13,Deployment,In Progress,Medium
+1351,Deployment task to handle server and CI/CD.,2025-11-11,Isabella,12,Deployment,In Progress,Medium
+1352,Deployment task to handle container and cloud.,2025-10-25,Sophia,17,Deployment,In Progress,Medium
+1353,Testing task to handle QA and test.,2025-11-02,Liam,21,Testing,In Progress,Medium
+1354,Deployment task to handle deploy and cloud.,2025-11-06,Emma,17,Deployment,In Progress,Medium
+1355,Documentation task to handle reference and summary.,2025-11-18,Lucas,10,Documentation,In Progress,Low
+1356,Development task to handle API and logic.,2025-11-04,Emma,25,Development,In Progress,Medium
+1357,Deployment task to handle container and deploy.,2025-10-19,Lucas,29,Deployment,Pending,High
+1358,Documentation task to handle guide and summary.,2025-11-29,Sophia,5,Documentation,Completed,Low
+1359,Documentation task to handle docs and notes.,2025-11-20,Sophia,4,Documentation,In Progress,Low
+1360,Testing task to handle validation and cases.,2025-11-09,Mia,23,Testing,In Progress,Medium
+1361,Development task to handle backend and module.,2025-11-08,Emma,18,Development,In Progress,Medium
+1362,Design task to handle design and banner.,2025-12-02,Liam,7,Design,In Progress,Low
+1363,Documentation task to handle summary and docs.,2025-11-17,Noah,8,Documentation,In Progress,Low
+1364,Documentation task to handle manual and instructions.,2025-11-28,Ava,7,Documentation,In Progress,Low
+1365,Documentation task to handle manual and reference.,2025-12-10,Mia,10,Documentation,In Progress,Low
+1366,Documentation task to handle reference and instructions.,2025-11-26,James,4,Documentation,In Progress,Low
+1367,Deployment task to handle server and cloud.,2025-10-27,Liam,19,Deployment,In Progress,Medium
+1368,Deployment task to handle production and server.,2025-11-01,Sophia,20,Deployment,In Progress,Medium
+1369,Design task to handle design and banner.,2025-11-14,James,8,Design,In Progress,Low
+1370,Testing task to handle bug and cases.,2025-11-05,Olivia,17,Testing,In Progress,Medium
+1371,Design task to handle color and layout.,2025-10-29,Olivia,11,Design,In Progress,Medium
+1372,Design task to handle layout and mockup.,2025-12-04,Olivia,10,Design,In Progress,Low
+1373,Documentation task to handle summary and notes.,2025-12-06,Mia,7,Documentation,Completed,Low
+1374,Development task to handle database and API.,2025-11-02,Mia,22,Development,In Progress,Medium
+1375,Development task to handle database and module.,2025-11-05,Emma,14,Development,In Progress,Medium
+1376,Documentation task to handle manual and notes.,2025-12-14,Lucas,6,Documentation,Completed,Low
+1377,Development task to handle logic and API.,2025-11-06,Olivia,23,Development,In Progress,Medium
+1378,Testing task to handle QA and bug.,2025-11-10,Ava,21,Testing,In Progress,Medium
+1379,Documentation task to handle instructions and guide.,2025-11-19,Ava,5,Documentation,In Progress,Low
+1380,Testing task to handle test and performance.,2025-11-07,Liam,13,Testing,In Progress,Medium
+1381,Design task to handle design and UX.,2025-11-26,Sophia,7,Design,Completed,Low
+1382,Deployment task to handle environment and deploy.,2025-11-13,Emma,17,Deployment,In Progress,Medium
+1383,Design task to handle color and layout.,2025-11-14,Olivia,20,Design,In Progress,Medium
+1384,Development task to handle database and logic.,2025-11-08,Isabella,14,Development,In Progress,Medium
+1385,Documentation task to handle notes and docs.,2025-11-25,Liam,4,Documentation,In Progress,Low
+1386,Design task to handle mockup and UI.,2025-11-09,James,11,Design,In Progress,Medium
+1387,Deployment task to handle server and container.,2025-11-08,James,14,Deployment,In Progress,Medium
+1388,Design task to handle layout and mockup.,2025-11-02,James,17,Design,In Progress,Medium
+1389,Deployment task to handle CI/CD and deploy.,2025-11-14,Noah,24,Deployment,In Progress,Medium
+1390,Deployment task to handle CI/CD and cloud.,2025-11-10,Lucas,24,Deployment,In Progress,Medium
+1391,Development task to handle backend and function.,2025-11-03,Noah,14,Development,In Progress,Medium
+1392,Documentation task to handle guide and docs.,2025-11-27,Noah,5,Documentation,In Progress,Low
+1393,Design task to handle UI and banner.,2025-11-08,Noah,15,Design,In Progress,Medium
+1394,Design task to handle color and design.,2025-11-01,Noah,17,Design,In Progress,Medium
+1395,Development task to handle feature and backend.,2025-10-24,James,30,Development,In Progress,High
+1396,Development task to handle module and API.,2025-10-20,Isabella,36,Development,Pending,High
+1397,Testing task to handle QA and performance.,2025-11-08,Noah,12,Testing,In Progress,Medium
+1398,Testing task to handle QA and error.,2025-11-08,Olivia,12,Testing,In Progress,Medium
+1399,Design task to handle UI and UX.,2025-10-29,Olivia,18,Design,In Progress,Medium
+1400,Deployment task to handle container and production.,2025-11-20,Lucas,8,Deployment,In Progress,Low
+1401,Deployment task to handle environment and CI/CD.,2025-10-20,Ava,26,Deployment,In Progress,High
+1402,Deployment task to handle deploy and server.,2025-11-14,Noah,17,Deployment,In Progress,Medium
+1403,Development task to handle database and function.,2025-11-07,Isabella,18,Development,In Progress,Medium
+1404,Testing task to handle performance and error.,2025-10-26,Sophia,11,Testing,In Progress,Medium
+1405,Testing task to handle QA and error.,2025-10-29,Isabella,16,Testing,In Progress,Medium
+1406,Deployment task to handle container and deploy.,2025-11-07,Noah,23,Deployment,In Progress,Medium
+1407,Testing task to handle bug and test.,2025-11-13,Sophia,23,Testing,In Progress,Medium
+1408,Design task to handle mockup and color.,2025-11-13,Lucas,16,Design,In Progress,Medium
+1409,Documentation task to handle reference and manual.,2025-11-18,Isabella,7,Documentation,In Progress,Low
+1410,Testing task to handle test and QA.,2025-10-28,Olivia,18,Testing,In Progress,Medium
+1411,Deployment task to handle production and environment.,2025-11-04,Ava,11,Deployment,In Progress,Medium
+1412,Testing task to handle performance and error.,2025-10-26,Lucas,13,Testing,In Progress,Medium
+1413,Documentation task to handle docs and summary.,2025-12-11,Liam,2,Documentation,Completed,Low
+1414,Testing task to handle error and cases.,2025-11-12,Mia,23,Testing,In Progress,Medium
+1415,Design task to handle mockup and color.,2025-11-14,Sophia,9,Design,In Progress,Low
+1416,Deployment task to handle container and production.,2025-10-22,Mia,30,Deployment,In Progress,High
+1417,Development task to handle feature and backend.,2025-10-24,Isabella,40,Development,In Progress,High
+1418,Deployment task to handle production and cloud.,2025-11-10,Liam,13,Deployment,In Progress,Medium
+1419,Testing task to handle QA and cases.,2025-12-14,Emma,8,Testing,In Progress,Low
+1420,Testing task to handle test and bug.,2025-11-06,Lucas,16,Testing,In Progress,Medium
+1421,Design task to handle design and layout.,2025-10-27,Lucas,16,Design,In Progress,Medium
+1422,Documentation task to handle instructions and guide.,2025-11-15,Mia,7,Documentation,In Progress,Low
+1423,Development task to handle module and feature.,2025-10-26,Mia,11,Development,In Progress,Medium
+1424,Deployment task to handle container and cloud.,2025-12-03,Emma,9,Deployment,In Progress,Low
+1425,Testing task to handle validation and error.,2025-10-25,Sophia,17,Testing,In Progress,Medium
+1426,Documentation task to handle reference and manual.,2025-12-13,Lucas,5,Documentation,Completed,Low
+1427,Development task to handle database and feature.,2025-10-25,Olivia,32,Development,In Progress,High
+1428,Development task to handle module and API.,2025-10-30,Mia,11,Development,In Progress,Medium
+1429,Development task to handle backend and API.,2025-10-19,Sophia,28,Development,In Progress,High
+1430,Design task to handle mockup and layout.,2025-10-28,Emma,13,Design,In Progress,Medium
+1431,Design task to handle banner and design.,2025-12-06,Olivia,9,Design,In Progress,Low
+1432,Design task to handle mockup and layout.,2025-12-04,Mia,5,Design,In Progress,Low
+1433,Design task to handle mockup and layout.,2025-12-09,Ava,6,Design,Completed,Low
+1434,Development task to handle module and feature.,2025-10-24,Lucas,39,Development,In Progress,High
+1435,Development task to handle function and backend.,2025-11-04,Ava,16,Development,In Progress,Medium
+1436,Development task to handle database and backend.,2025-11-04,Lucas,18,Development,In Progress,Medium
+1437,Documentation task to handle summary and instructions.,2025-12-08,Isabella,5,Documentation,Completed,Low
+1438,Design task to handle UI and mockup.,2025-10-25,Sophia,12,Design,In Progress,Medium
+1439,Development task to handle API and feature.,2025-12-07,Liam,10,Development,In Progress,Low
+1440,Development task to handle function and backend.,2025-10-25,Isabella,14,Development,In Progress,Medium
+1441,Design task to handle design and color.,2025-12-05,Olivia,5,Design,Completed,Low
+1442,Development task to handle logic and API.,2025-10-21,Ava,35,Development,In Progress,High
+1443,Development task to handle backend and logic.,2025-10-28,Noah,16,Development,In Progress,Medium
+1444,Testing task to handle performance and error.,2025-10-26,Ava,11,Testing,In Progress,Medium
+1445,Design task to handle mockup and color.,2025-12-02,James,6,Design,Completed,Low
+1446,Documentation task to handle manual and notes.,2025-11-14,Emma,5,Documentation,In Progress,Low
+1447,Design task to handle banner and color.,2025-11-05,Lucas,19,Design,In Progress,Medium
+1448,Deployment task to handle container and environment.,2025-10-30,Emma,14,Deployment,In Progress,Medium
+1449,Design task to handle UX and banner.,2025-11-08,Isabella,11,Design,In Progress,Medium
+1450,Design task to handle banner and mockup.,2025-11-02,Sophia,11,Design,In Progress,Medium
+1451,Documentation task to handle docs and summary.,2025-11-20,Olivia,5,Documentation,In Progress,Low
+1452,Design task to handle color and UX.,2025-12-04,Ava,8,Design,In Progress,Low
+1453,Testing task to handle bug and error.,2025-11-29,Lucas,10,Testing,In Progress,Low
+1454,Deployment task to handle server and production.,2025-11-11,Mia,12,Deployment,In Progress,Medium
+1455,Testing task to handle validation and error.,2025-12-09,Emma,10,Testing,In Progress,Low
+1456,Deployment task to handle container and cloud.,2025-10-21,Noah,29,Deployment,In Progress,High
+1457,Testing task to handle bug and validation.,2025-10-25,Lucas,18,Testing,In Progress,Medium
+1458,Design task to handle color and banner.,2025-11-08,Emma,18,Design,In Progress,Medium
+1459,Documentation task to handle notes and instructions.,2025-11-16,Mia,4,Documentation,In Progress,Low
+1460,Development task to handle API and logic.,2025-10-24,Mia,32,Development,Pending,High
+1461,Deployment task to handle CI/CD and environment.,2025-11-05,Noah,11,Deployment,In Progress,Medium
+1462,Deployment task to handle cloud and container.,2025-11-01,Liam,17,Deployment,In Progress,Medium
+1463,Testing task to handle QA and cases.,2025-10-31,Olivia,19,Testing,In Progress,Medium
+1464,Design task to handle UX and color.,2025-11-19,Emma,7,Design,Completed,Low
+1465,Documentation task to handle notes and guide.,2025-11-20,Emma,6,Documentation,Completed,Low
+1466,Documentation task to handle instructions and guide.,2025-11-29,Ava,3,Documentation,In Progress,Low
+1467,Deployment task to handle production and container.,2025-11-11,Olivia,22,Deployment,In Progress,Medium
+1468,Testing task to handle bug and QA.,2025-11-14,Noah,8,Testing,In Progress,Low
+1469,Design task to handle UX and UI.,2025-10-27,Lucas,15,Design,In Progress,Medium
+1470,Deployment task to handle server and environment.,2025-10-25,Mia,20,Deployment,In Progress,Medium
+1471,Documentation task to handle summary and docs.,2025-11-29,James,10,Documentation,In Progress,Low
+1472,Documentation task to handle docs and guide.,2025-11-28,Lucas,3,Documentation,Completed,Low
+1473,Documentation task to handle notes and instructions.,2025-12-07,James,3,Documentation,In Progress,Low
+1474,Documentation task to handle docs and instructions.,2025-11-28,Isabella,9,Documentation,In Progress,Low
+1475,Testing task to handle error and validation.,2025-10-31,Lucas,20,Testing,In Progress,Medium
+1476,Documentation task to handle reference and instructions.,2025-11-19,Sophia,6,Documentation,Completed,Low
+1477,Testing task to handle performance and QA.,2025-11-29,Sophia,9,Testing,In Progress,Low
+1478,Design task to handle banner and UI.,2025-11-09,Emma,19,Design,In Progress,Medium
+1479,Deployment task to handle deploy and container.,2025-10-22,Isabella,28,Deployment,Pending,High
+1480,Documentation task to handle manual and notes.,2025-11-16,Emma,4,Documentation,Completed,Low
+1481,Deployment task to handle environment and deploy.,2025-11-13,Ava,23,Deployment,In Progress,Medium
+1482,Deployment task to handle cloud and production.,2025-11-09,Mia,15,Deployment,In Progress,Medium
+1483,Documentation task to handle instructions and notes.,2025-11-29,Sophia,3,Documentation,Completed,Low
+1484,Design task to handle layout and design.,2025-12-01,Emma,10,Design,In Progress,Low
+1485,Design task to handle color and design.,2025-10-28,James,19,Design,In Progress,Medium
+1486,Deployment task to handle CI/CD and production.,2025-11-12,Lucas,23,Deployment,In Progress,Medium
+1487,Testing task to handle validation and performance.,2025-10-31,Mia,14,Testing,In Progress,Medium
+1488,Development task to handle backend and database.,2025-10-19,Mia,38,Development,In Progress,High
+1489,Testing task to handle performance and cases.,2025-11-14,Isabella,17,Testing,In Progress,Medium
+1490,Development task to handle database and API.,2025-11-06,Noah,23,Development,In Progress,Medium
+1491,Testing task to handle error and performance.,2025-11-10,Sophia,14,Testing,In Progress,Medium
+1492,Testing task to handle bug and cases.,2025-10-26,Ava,19,Testing,In Progress,Medium
+1493,Deployment task to handle environment and server.,2025-10-19,Sophia,28,Deployment,Pending,High
+1494,Design task to handle color and mockup.,2025-10-29,Olivia,17,Design,In Progress,Medium
+1495,Documentation task to handle notes and summary.,2025-11-14,Sophia,10,Documentation,In Progress,Low
+1496,Deployment task to handle deploy and environment.,2025-11-06,Noah,12,Deployment,In Progress,Medium
+1497,Documentation task to handle instructions and manual.,2025-11-17,Mia,6,Documentation,Completed,Low
+1498,Testing task to handle error and test.,2025-11-24,Isabella,9,Testing,In Progress,Low
+1499,Design task to handle UI and design.,2025-12-11,Lucas,5,Design,Completed,Low
+1500,Design task to handle UX and color.,2025-10-27,Isabella,13,Design,In Progress,Medium
