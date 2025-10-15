@@ -23,7 +23,7 @@ st.write("Predict both **Task Category** and **Priority** using AI.")
 # -----------------------------
 # User Inputs
 # -----------------------------
-task_description = st.text_area("✍️ Enter Task Description:", placeholder="e.g., Fix login API issue for users")
+task_description = st.text_area("✍️ Enter Task Description:", placeholder="e.g., test task handle bug")
 estimated_hours = st.number_input("⏱️ Estimated Hours:", min_value=1, max_value=100, value=8)
 
 # Predict Button
